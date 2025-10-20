@@ -195,7 +195,7 @@ sections:
             justifyContent: center
             textAlign: left
     actions:
-      - label: Get started
+      - label: See our Prospectus for more on our mission!
         altText: ''
         url: /
         showIcon: false
