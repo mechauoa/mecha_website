@@ -20,7 +20,7 @@
         {
             "label": "Resources",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/resources",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
