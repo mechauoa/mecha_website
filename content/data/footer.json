@@ -2,7 +2,14 @@
     "logo": {
         "url": "/images/MECHA LOGO SALMONELLA.png",
         "altText": "Logo light",
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "styles": {
+            "self": {
+                "margin": [
+                    "mr-96"
+                ]
+            }
+        }
     },
     "text": "A description of your brand",
     "primaryLinks": {
