@@ -1,6 +1,6 @@
 ---
 title: Events
-slug: /blog
+slug: /events
 numOfPostsPerPage: 8
 enableSearch: true
 topSections:
