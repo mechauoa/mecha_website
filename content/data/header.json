@@ -89,7 +89,7 @@
             "type": "Button"
         }
     ],
-    "variant": "logo-centered-primary-nav-left",
+    "variant": "logo-left-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header",
     "logo": {
