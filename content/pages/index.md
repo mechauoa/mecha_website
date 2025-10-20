@@ -65,6 +65,8 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+            margin:
+              - mt-8
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
