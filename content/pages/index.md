@@ -79,6 +79,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/avatar2.svg
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
