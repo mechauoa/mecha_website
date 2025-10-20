@@ -37,7 +37,7 @@
                     "type": "Link",
                     "label": "Educational",
                     "altText": "",
-                    "url": "mechauoa.netlify.app/educational/",
+                    "url": "/mechauoa.netlify.app/educational/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
