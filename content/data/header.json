@@ -101,7 +101,7 @@
             "self": {
                 "borderRadius": "medium",
                 "padding": [
-                    "pt-32"
+                    "pt-0"
                 ]
             }
         }
