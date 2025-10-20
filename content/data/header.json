@@ -101,7 +101,8 @@
             "self": {
                 "borderRadius": "medium",
                 "padding": [
-                    "pt-0"
+                    "pt-0",
+                    "pr-96"
                 ],
                 "margin": [
                     "mt-0",
