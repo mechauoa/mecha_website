@@ -87,7 +87,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: MECHA
     items:
       - type: FeaturedItem
         title: Industry
