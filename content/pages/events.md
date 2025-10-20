@@ -1,6 +1,6 @@
 ---
 title: Events
-slug: pricing
+slug: events
 sections:
   - title:
       text: Flexible Pricing
