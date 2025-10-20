@@ -204,6 +204,10 @@ sections:
       - url: /images/Beca-Logo-Large.png
         altText: Wellster logo
         type: ImageBlock
+        styles:
+          self:
+            margin:
+              - ml-96
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
