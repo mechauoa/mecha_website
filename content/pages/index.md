@@ -40,7 +40,7 @@ sections:
           “Quote from some important person goes right here. I love using
           Netlify.”
         tagline: A Message from our Presidents
-        subtitle: 'Jane Doe, Company'
+        subtitle: Ella and Sasha
         text: |+
           Hihihi
 
