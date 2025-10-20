@@ -39,6 +39,17 @@
             "type": "Link"
         },
         {
+            "type": "Link",
+            "label": "Sponsors",
+            "altText": "",
+            "url": "/sponsors",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
             "label": "About Us",
             "altText": "Dropdown",
             "links": [
@@ -69,17 +80,6 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
-        },
-        {
-            "type": "Link",
-            "label": "Sponsors",
-            "altText": "",
-            "url": "/sponsors",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": ""
         }
     ],
     "secondaryLinks": [
