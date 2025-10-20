@@ -244,6 +244,9 @@ sections:
       type: TitleBlock
       text: Recent Events
       color: text-primary
+      styles:
+        self:
+          textAlign: left
   - title: Divider
     colors: bg-light-fg-dark
     styles:
