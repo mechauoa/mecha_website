@@ -108,7 +108,10 @@
         "elementId": "",
         "styles": {
             "self": {
-                "borderRadius": "medium"
+                "borderRadius": "medium",
+                "margin": [
+                    "mr-11"
+                ]
             }
         }
     }
