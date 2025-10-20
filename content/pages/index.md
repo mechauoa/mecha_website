@@ -89,8 +89,8 @@ sections:
       type: TitleBlock
     subtitle: >-
       As the Student Association for Mechanical and Mechatronics Students, we
-      aim to not only equip students with skills that extend their classroom
-      learning, but connect them with industry
+      aim to support students to excel in their chosen specialisation, and equip
+      them with valuable skills and lifelong connections.
     items:
       - type: FeaturedItem
         title: Industry
