@@ -61,7 +61,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-    variant: next-prev-nav
+    variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
       self:
