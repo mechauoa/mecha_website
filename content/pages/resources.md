@@ -1,6 +1,6 @@
 ---
 title: Resources
-slug: careers
+slug: resources
 sections:
   - title:
       text: A team that works closely together
