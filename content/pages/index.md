@@ -66,7 +66,7 @@ sections:
             flexDirection: row
             justifyContent: center
             margin:
-              - mt-6
+              - mt-20
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
