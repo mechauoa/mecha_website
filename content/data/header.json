@@ -111,6 +111,16 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Button"
+        },
+        {
+            "type": "Link",
+            "altText": "",
+            "url": "https://www.instagram.com/mecha.uoa",
+            "showIcon": true,
+            "icon": "instagram",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "variant": "logo-centered-primary-nav-left",
