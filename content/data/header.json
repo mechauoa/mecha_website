@@ -62,7 +62,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Resources",
             "altText": "Dropdown",
             "links": [
                 {
