@@ -111,7 +111,8 @@
             "icon": "instagram",
             "iconPosition": "right",
             "style": "secondary",
-            "elementId": ""
+            "elementId": "",
+            "label": "Instagr"
         },
         {
             "label": "Sign up",
