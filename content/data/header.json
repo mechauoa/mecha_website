@@ -83,7 +83,7 @@
                 },
                 {
                     "label": "Meet Our Team",
-                    "url": "/meetourteam",
+                    "url": "mechauoa.netlify.app/meetourteam/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
