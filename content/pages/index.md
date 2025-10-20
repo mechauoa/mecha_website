@@ -81,7 +81,7 @@ sections:
       url: /images/images.jpg
   - type: FeaturedItemsSection
     title:
-      text: P
+      text: Our Mission
       color: text-dark
       styles:
         self:
