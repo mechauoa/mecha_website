@@ -104,6 +104,15 @@
     ],
     "secondaryLinks": [
         {
+            "label": "Sign up",
+            "altText": "Sign up",
+            "url": "https://app.netlify.com/signup",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "type": "Button"
+        },
+        {
             "type": "Link",
             "altText": "",
             "url": "https://www.instagram.com/mecha.uoa",
@@ -123,15 +132,6 @@
             "iconPosition": "left",
             "style": "secondary",
             "elementId": ""
-        },
-        {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
         }
     ],
     "variant": "logo-centered-primary-nav-left",
