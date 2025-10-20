@@ -75,7 +75,7 @@
             "label": "Sponsors",
             "altText": "",
             "url": "/sponsors",
-            "showIcon": false,
+            "showIcon": true,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
