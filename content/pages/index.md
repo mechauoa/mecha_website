@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Who Are We?
-        tagline: Feature 1
+        tagline: MECHA1
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
