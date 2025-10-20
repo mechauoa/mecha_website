@@ -240,7 +240,7 @@ sections:
           textAlign: center
       type: Badge
     elementId: ''
-    variant: small-list
+    variant: toggle-list
     colors: bg-neutral-fg-dark
     styles:
       self:
