@@ -87,7 +87,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: MECHA
+    subtitle: >-
+      As the Student Association for Mechanical and Mechatronics Students, we
+      aim to not only equip students with skills that extend their classroom
+      learning, but connect them with industry
     items:
       - type: FeaturedItem
         title: Industry
