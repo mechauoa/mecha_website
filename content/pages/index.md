@@ -208,7 +208,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: What do we do as mecha?
+      label: What is mecha about?
       color: text-primary
       styles:
         self:
