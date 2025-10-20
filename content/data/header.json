@@ -48,7 +48,7 @@
                     "type": "Link",
                     "label": "Wellness",
                     "altText": "",
-                    "url": "/",
+                    "url": "mechauoa.netlify.app/wellness/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
