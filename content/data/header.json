@@ -21,7 +21,7 @@
             "type": "Link",
             "label": "Sponsors",
             "altText": "Sponsors",
-            "url": "mechauoa.netlify.app/sponsors/",
+            "url": "/mechauoa.netlify.app/sponsors/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
