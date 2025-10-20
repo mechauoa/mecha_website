@@ -210,6 +210,7 @@ sections:
               - ml-96
               - mr-96
               - mt-96
+              - mb-96
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
