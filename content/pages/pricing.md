@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Events
 slug: pricing
 sections:
   - title:
