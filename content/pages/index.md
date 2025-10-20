@@ -246,7 +246,7 @@ sections:
       color: text-primary
       styles:
         self:
-          textAlign: left
+          textAlign: center
           fontWeight: 400
   - title: Divider
     colors: bg-light-fg-dark
