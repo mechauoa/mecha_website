@@ -77,7 +77,7 @@
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
+            "style": "primary",
             "type": "Button"
         }
     ],
