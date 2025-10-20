@@ -205,7 +205,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: What do we do?
+      label: What do we do as mecha?
       color: text-primary
       styles:
         self:
