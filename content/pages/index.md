@@ -67,6 +67,7 @@ sections:
             justifyContent: center
             margin:
               - mt-20
+              - mb-9
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
