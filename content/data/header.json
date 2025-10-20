@@ -107,7 +107,7 @@
             "type": "Link",
             "altText": "",
             "url": "https://www.instagram.com/mecha.uoa",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "instagram",
             "iconPosition": "right",
             "style": "primary",
