@@ -110,7 +110,7 @@
             "self": {
                 "borderRadius": "medium",
                 "margin": [
-                    "mr-11"
+                    "mr-40"
                 ]
             }
         }
