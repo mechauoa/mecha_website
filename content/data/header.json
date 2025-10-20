@@ -43,7 +43,7 @@
             "links": [
                 {
                     "label": "Our Values",
-                    "url": "/",
+                    "url": "/ourvalues",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
