@@ -75,6 +75,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/images.jpg
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
