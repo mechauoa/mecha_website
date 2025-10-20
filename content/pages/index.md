@@ -243,7 +243,7 @@ sections:
     title:
       type: TitleBlock
       text: Recent Events
-      color: text-dark
+      color: text-primary
   - title: Divider
     colors: bg-light-fg-dark
     styles:
