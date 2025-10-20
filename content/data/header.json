@@ -102,6 +102,9 @@
                 "borderRadius": "medium",
                 "padding": [
                     "pt-0"
+                ],
+                "margin": [
+                    "mt-28"
                 ]
             }
         }
