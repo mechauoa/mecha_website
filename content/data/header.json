@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/home/",
+            "url": "/mechauoa.netlify.app/home/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
