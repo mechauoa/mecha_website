@@ -69,7 +69,7 @@ sections:
               - mt-20
               - mb-16
     variant: tabs-nav
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
