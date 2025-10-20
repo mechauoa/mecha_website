@@ -99,7 +99,10 @@
         "elementId": "",
         "styles": {
             "self": {
-                "borderRadius": "medium"
+                "borderRadius": "medium",
+                "padding": [
+                    "pt-32"
+                ]
             }
         }
     }
