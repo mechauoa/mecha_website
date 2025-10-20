@@ -75,7 +75,7 @@
             "links": [
                 {
                     "label": "Our Values",
-                    "url": "/ourvalues",
+                    "url": "mechauoa.netlify.app/meetourteam/ourvalues",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
