@@ -104,17 +104,6 @@
     ],
     "secondaryLinks": [
         {
-            "type": "Link",
-            "altText": "",
-            "url": "https://www.instagram.com/mecha.uoa",
-            "showIcon": true,
-            "icon": "instagram",
-            "iconPosition": "right",
-            "style": "primary",
-            "elementId": "",
-            "label": ""
-        },
-        {
             "label": "Sign up",
             "altText": "Sign up",
             "url": "https://app.netlify.com/signup",
