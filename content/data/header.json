@@ -29,7 +29,7 @@
         {
             "type": "Link",
             "label": "Sponsors",
-            "altText": "",
+            "altText": "Sponsors",
             "url": "/sponsors",
             "showIcon": false,
             "icon": "arrowRight",
