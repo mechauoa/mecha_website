@@ -122,6 +122,16 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Button"
+        },
+        {
+            "type": "Link",
+            "altText": "LinkedIn",
+            "url": "https://nz.linkedin.com/company/mechanical-mechatronics-student-association-uoa",
+            "showIcon": true,
+            "icon": "linkedin",
+            "iconPosition": "left",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "variant": "logo-centered-primary-nav-left",
