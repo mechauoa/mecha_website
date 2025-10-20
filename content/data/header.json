@@ -94,7 +94,6 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/MECHA LOGO SALMONELLA.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
