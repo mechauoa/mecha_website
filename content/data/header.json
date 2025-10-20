@@ -10,7 +10,7 @@
         },
         {
             "label": "Events",
-            "altText": "Blog",
+            "altText": "Events",
             "url": "/events",
             "icon": "arrowRight",
             "iconPosition": "right",
