@@ -81,7 +81,7 @@ sections:
       url: /images/images.jpg
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: P
       color: text-dark
       styles:
         self:
