@@ -39,7 +39,7 @@ sections:
         title: >-
           “Quote from some important person goes right here. I love using
           Netlify.”
-        tagline: Testimonial 2
+        tagline: A Message from our Presidents
         subtitle: 'Jane Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
