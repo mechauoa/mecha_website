@@ -201,16 +201,6 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/Beca-Logo-Large.png
-        altText: Wellster logo
-        type: ImageBlock
-        styles:
-          self:
-            margin:
-              - ml-96
-              - mr-96
-              - mt-96
-              - mb-96
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
