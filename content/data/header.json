@@ -29,38 +29,6 @@
             "elementId": ""
         },
         {
-            "label": "About Us",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Our Values",
-                    "url": "/ourvalues",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Meet Our Team",
-                    "url": "/meetourteam",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Contact Us",
-                    "url": "/contactus",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        },
-        {
             "type": "SubNav",
             "label": "Resources",
             "altText": "Dropdown",
@@ -100,6 +68,38 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "label": "About Us",
+            "altText": "Dropdown",
+            "links": [
+                {
+                    "label": "Our Values",
+                    "url": "/ourvalues",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link"
+                },
+                {
+                    "label": "Meet Our Team",
+                    "url": "/meetourteam",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link"
+                },
+                {
+                    "label": "Contact Us",
+                    "url": "/contactus",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link"
+                }
+            ],
+            "labelStyle": "secondary",
+            "type": "SubNav"
         }
     ],
     "secondaryLinks": [
