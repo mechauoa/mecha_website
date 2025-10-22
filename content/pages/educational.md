@@ -78,7 +78,7 @@ sections:
             showIcon: true
             icon: arrowRight
             iconPosition: right
-            style: secondary
+            style: primary
             elementId: ''
         colors: bg-dark-fg-light
         styles:
