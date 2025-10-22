@@ -18,7 +18,7 @@ sections:
       - content/data/person5.json
       - content/data/person6.json
     actions: []
-    variant: mixed-grid
+    variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
