@@ -11,7 +11,7 @@
         {
             "label": "Events",
             "altText": "Events",
-            "url": "/events/",
+            "url": "/blog/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
