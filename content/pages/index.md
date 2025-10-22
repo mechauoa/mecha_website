@@ -239,6 +239,7 @@ sections:
           self:
             margin:
               - mt-0
+              - mr-44
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
