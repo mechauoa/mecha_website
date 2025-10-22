@@ -91,7 +91,7 @@
                 },
                 {
                     "label": "Contact Us",
-                    "url": "mechauoa.netlify.app/contactus/",
+                    "url": "/contactus/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
