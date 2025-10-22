@@ -77,7 +77,7 @@ sections:
             url: '/https://auckland.libguides.com/quickcite/'
             showIcon: true
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
         colors: bg-dark-fg-light
