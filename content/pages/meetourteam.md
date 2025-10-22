@@ -46,7 +46,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: 2026 Exec Applications open now
+    subtitle: 2026 Exec Applications open now <3
     items:
       - type: FeaturedItem
         title: MECHA Executive
