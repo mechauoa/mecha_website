@@ -36,7 +36,7 @@
         "links": [
             {
                 "label": "The Team",
-                "altText": "careers page",
+                "altText": "team page",
                 "url": "/meetourteam",
                 "icon": "arrowRight",
                 "iconPosition": "right",
