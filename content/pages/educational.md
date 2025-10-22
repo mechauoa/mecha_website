@@ -60,7 +60,7 @@ sections:
       - type: FeaturedItem
         title: Resource Title
         tagline: Feature 2
-        subtitle: Be in good company
+        subtitle: Brief Description
         text: ''
         image:
           type: ImageBlock
