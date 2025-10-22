@@ -49,7 +49,7 @@ sections:
     subtitle: 2026 Exec Applications open now <3
     items:
       - type: FeaturedItem
-        title: MECHA Executive
+        title: MECHA General Executive
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
