@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Contact us
       color: text-dark
-    subtitle: Fill out this form to connect with our team.
+    subtitle: Fill out this form to connect with our friendly team.
     text: >
       We'd love to hear from you!
 
