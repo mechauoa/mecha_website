@@ -238,6 +238,8 @@ sections:
               - mt-0
               - mr-96
               - ml-96
+            padding:
+              - pr-96
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
