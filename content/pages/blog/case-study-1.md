@@ -28,10 +28,7 @@ bottomSections:
   - items:
       - title: Company/Club name
         tagline: If in Collaboration with Companies/Club please fill this out too
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien
+        subtitle: ''
         image:
           url: /images/telus-logo.svg
           altText: Company logo
