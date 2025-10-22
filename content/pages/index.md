@@ -232,7 +232,7 @@ sections:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/Beca-Logo-Large.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
