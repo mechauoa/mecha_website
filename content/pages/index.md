@@ -229,17 +229,6 @@ sections:
         textAlign: center
   - subtitle: Our Sponsors for 2025
     images:
-      - url: /images/Beca-Logo-Large.png
-        altText: Telus logo
-        type: ImageBlock
-        styles:
-          self:
-            margin:
-              - mt-0
-              - mr-96
-              - ml-96
-            padding:
-              - pr-96
       - url: /images/empathy-logo.svg
         altText: Empathy logo
         type: ImageBlock
