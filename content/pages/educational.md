@@ -1,6 +1,6 @@
 ---
 title: Educational Resources
-slug: resources
+slug: educational
 sections:
   - title:
       text: Need some help?
