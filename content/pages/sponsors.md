@@ -15,7 +15,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Gold Sponsors
       color: text-primary
       styles:
         self:
