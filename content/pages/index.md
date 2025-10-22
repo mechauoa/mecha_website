@@ -171,7 +171,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Diversity & Wellbeing
-        subtitle: Numbers Done
+        subtitle: Creating a safe and inclusive community
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
