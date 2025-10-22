@@ -6,7 +6,7 @@
             {
                 "label": "Events",
                 "altText": "Features page",
-                "url": "/",
+                "url": "/events",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
