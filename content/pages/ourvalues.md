@@ -2,47 +2,6 @@
 type: PageLayout
 title: Our Values
 sections:
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Industry
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      subtitle:
-        textAlign: center
   - type: CarouselSection
     subtitle: This is a subtitle
     items:
@@ -111,6 +70,47 @@ sections:
     styles:
       self:
         justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Industry
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: Increase your reach
+    text: >
+      A service that helps businesses to manage their social media accounts and
+      posts.
+    actions:
+      - type: Button
+        label: Get started
+        url: /
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
       subtitle:
         textAlign: center
 slug: ourvalues
