@@ -235,6 +235,10 @@ sections:
       - url: /images/Beca-Logo-Large.png
         altText: Telus logo
         type: ImageBlock
+        styles:
+          self:
+            margin:
+              - mt-36
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
