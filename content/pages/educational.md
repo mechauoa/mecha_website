@@ -58,7 +58,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Business Consulting
+        title: Resource Title
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
