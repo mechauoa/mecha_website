@@ -34,6 +34,7 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+        flexDirection: col
 slug: ourvalues
 isDraft: false
 seo:
