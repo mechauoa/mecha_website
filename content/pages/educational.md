@@ -60,7 +60,7 @@ sections:
       - type: FeaturedItem
         title: UoA Citation Guide
         tagline: Feature 2
-        subtitle: Brief Description
+        subtitle: For all your report referencing style tips!
         text: ''
         image:
           type: ImageBlock
