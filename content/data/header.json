@@ -11,7 +11,7 @@
         {
             "label": "Events",
             "altText": "Events",
-            "url": "/mechauoa.netlify.app/events/",
+            "url": "/events/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
