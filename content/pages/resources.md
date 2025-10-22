@@ -88,7 +88,7 @@ sections:
             justifyContent: center
     actions: []
     variant: small-list
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
