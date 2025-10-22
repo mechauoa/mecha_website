@@ -58,7 +58,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Resource Title
+        title: Citation
         tagline: Feature 2
         subtitle: Brief Description
         text: ''
