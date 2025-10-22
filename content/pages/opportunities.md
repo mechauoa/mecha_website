@@ -12,7 +12,7 @@ sections:
       Short Explanation/Description of project
     actions:
       - type: Link
-        label: See Tutorials
+        label: Find Out More
         url: /
         showIcon: true
         icon: arrowRight
