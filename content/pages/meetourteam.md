@@ -50,7 +50,7 @@ sections:
     items:
       - type: FeaturedItem
         title: MECHA General Executive
-        subtitle: Sales
+        subtitle: ''
         text: |
           As a MECHA exec, 
         actions: []
