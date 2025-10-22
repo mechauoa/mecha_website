@@ -32,9 +32,7 @@ styles:
     textAlign: center
 seo:
   metaTitle: Events
-  metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+  metaDescription: A recap of recent events by MECHA!
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
