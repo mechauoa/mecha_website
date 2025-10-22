@@ -87,7 +87,7 @@ sections:
             flexDirection: row
             justifyContent: center
     actions: []
-    variant: two-col-grid
+    variant: small-list
     colors: bg-neutral-fg-dark
     styles:
       self:
