@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Project Opportunity
       color: text-dark
-    subtitle: Be in good company
+    subtitle: LOCATION
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
