@@ -38,7 +38,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: 2026 Exec Applications open now
     items:
       - type: FeaturedItem
         title: Account Executive
