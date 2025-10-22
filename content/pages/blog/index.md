@@ -8,7 +8,7 @@ topSections:
       text: Featured Event Name
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Pillar event is under
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
