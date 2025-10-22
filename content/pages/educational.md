@@ -58,7 +58,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: UoA Citation Guide
+        title: UoA Citation Library
         tagline: Feature 2
         subtitle: For all your report referencing style tips!
         text: ''
