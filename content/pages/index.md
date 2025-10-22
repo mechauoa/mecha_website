@@ -236,7 +236,7 @@ sections:
           self:
             margin:
               - mt-0
-              - mr-44
+              - mr-96
               - ml-96
       - url: /images/empathy-logo.svg
         altText: Empathy logo
