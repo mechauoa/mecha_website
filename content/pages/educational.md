@@ -75,7 +75,7 @@ sections:
             label: See Tutorials
             altText: ''
             url: '/https://auckland.libguides.com/quickcite/'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: secondary
