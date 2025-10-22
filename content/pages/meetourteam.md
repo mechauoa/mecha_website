@@ -166,6 +166,6 @@ slug: meetourteam
 seo:
   type: Seo
   metaTitle: Meet the Team!
-  metaDescription: This is the careers page built with Netlify.
+  metaDescription: MECHA's 2026 team
   metaTags: []
 ---
