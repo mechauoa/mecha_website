@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Events Blog
 slug: /blog
 numOfPostsPerPage: 8
 enableSearch: true
