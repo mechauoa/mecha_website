@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Educational Resources
 slug: resources
 sections:
   - title:
