@@ -50,7 +50,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Educational Resources
+      text: Helpful Resources
       color: text-primary
       styles:
         self:
