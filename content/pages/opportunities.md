@@ -12,7 +12,7 @@ sections:
       Short Explanation/Description of project
     actions:
       - type: Button
-        label: Get started
+        label: See More
         url: /
         icon: arrowRight
         iconPosition: right
