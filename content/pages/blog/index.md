@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Featured Event Name
+      text: Recent Events
       color: text-dark
       type: TitleBlock
     subtitle: Pillar event is under
