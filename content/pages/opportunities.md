@@ -11,12 +11,6 @@ sections:
     text: |
       Short Explanation/Description of project
     actions:
-      - type: Button
-        label: See More
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
