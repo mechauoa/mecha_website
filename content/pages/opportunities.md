@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Project Opportunity
       color: text-dark
-    subtitle: LOCATION
+    subtitle: LOCATION AND TIME
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
