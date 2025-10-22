@@ -41,7 +41,7 @@ sections:
     subtitle: 2026 Exec Applications open now
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: MECHA Executive
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
