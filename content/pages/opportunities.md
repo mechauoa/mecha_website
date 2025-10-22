@@ -8,9 +8,8 @@ sections:
       text: Project Opportunity
       color: text-dark
     subtitle: LOCATION AND TIME
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      Short Explanation/Description of project
     actions:
       - type: Button
         label: Get started
