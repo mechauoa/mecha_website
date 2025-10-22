@@ -188,6 +188,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
+            justifyContent: center
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
