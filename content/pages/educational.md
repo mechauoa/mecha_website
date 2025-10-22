@@ -71,7 +71,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Link
-            label: See Tutorials
+            label: See website
             altText: ''
             url: '/https://auckland.libguides.com/quickcite/'
             showIcon: true
