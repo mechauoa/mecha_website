@@ -17,6 +17,7 @@ sections:
       - content/data/person4.json
       - content/data/person5.json
       - content/data/person6.json
+      - content/data/elsa.json
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
