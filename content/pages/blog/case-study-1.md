@@ -28,7 +28,7 @@ bottomSections:
   - items:
       - title: Company/Club name
         tagline: If in Collaboration with Companies/Club please fill this out too
-        subtitle: ''
+        subtitle: hi
         image:
           url: /images/telus-logo.svg
           altText: Company logo
