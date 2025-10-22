@@ -26,7 +26,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: Company/Club name
+      - title: Company or Club name
         tagline: If in Collaboration with Companies/Club please fill this out too
         subtitle: hi
         image:
