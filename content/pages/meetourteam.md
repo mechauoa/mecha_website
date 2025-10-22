@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: Meet our 2026 team!
       color: text-dark
       styles:
         self:
