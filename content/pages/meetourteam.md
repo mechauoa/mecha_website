@@ -24,6 +24,7 @@ sections:
       - content/data/spencer.json
       - content/data/ezra.json
       - content/data/ellaa.json
+      - content/data/kia.json
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
