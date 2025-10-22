@@ -33,7 +33,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Open positions
+      text: Apply now
       color: text-dark
       styles:
         self:
