@@ -33,6 +33,7 @@ sections:
     styles:
       self:
         alignItems: center
+        justifyContent: center
 slug: ourvalues
 isDraft: false
 seo:
