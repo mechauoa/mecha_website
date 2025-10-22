@@ -2,7 +2,7 @@
 title: Fun title
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
-excerpt: Mini event recap here.
+excerpt: Mini event recap here. Please append link to photos to the bottom
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
