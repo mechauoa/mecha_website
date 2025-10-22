@@ -8,7 +8,7 @@ topSections:
       text: Recent Events
       color: text-dark
       type: TitleBlock
-    subtitle: Pillar event is under
+    subtitle: ''
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
