@@ -1,6 +1,6 @@
 ---
 title: Event Title
-slug: five-tips-for-starting-a-startup
+slug: event-post
 date: '2023-03-18'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
