@@ -22,6 +22,7 @@ sections:
       - content/data/isabella.json
       - content/data/stacie.json
       - content/data/spencer.json
+      - content/data/ezra.json
       - content/data/ellaa.json
     actions: []
     variant: three-col-grid
