@@ -25,33 +25,7 @@ bottomSections:
           - pb-7
           - pr-7
     type: DividerSection
-  - items:
-      - title: Company or Club name
-        tagline: If in Collaboration with Companies/Club please fill this out too
-        subtitle: hi
-        image:
-          url: /images/telus-logo.svg
-          altText: Company logo
-          styles:
-            self:
-              margin:
-                - ml-3
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pl-6
-              - pb-6
-              - pr-6
-            textAlign: left
-            borderColor: border-neutralAlt
-            borderStyle: none
-            borderWidth: 0
-            borderRadius: none
-            flexDirection: row
-        type: FeaturedItem
+  - items: []
     variant: small-list
     colors: bg-light-fg-dark
     styles:
