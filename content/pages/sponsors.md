@@ -157,7 +157,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Bronze Sponsors
       color: text-primary
       styles:
         self:
