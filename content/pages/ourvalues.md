@@ -41,6 +41,8 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row
+      subtitle:
+        textAlign: center
 slug: ourvalues
 isDraft: false
 seo:
