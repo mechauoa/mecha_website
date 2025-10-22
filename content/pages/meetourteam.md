@@ -165,7 +165,7 @@ sections:
 slug: meetourteam
 seo:
   type: Seo
-  metaTitle: Meet the Team
+  metaTitle: Meet the Team!
   metaDescription: This is the careers page built with Netlify.
   metaTags: []
 ---
