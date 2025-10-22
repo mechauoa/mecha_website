@@ -3,7 +3,7 @@ title: Resources
 slug: resources
 sections:
   - title:
-      text: A team that works closely together
+      text: Need some help?
       color: text-dark
       styles:
         self:
