@@ -229,9 +229,6 @@ sections:
         textAlign: center
   - subtitle: Our Sponsors for 2025
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
       - url: /images/Beca-Logo-Large.png
         altText: Telus logo
         type: ImageBlock
@@ -241,6 +238,9 @@ sections:
               - mt-0
               - mr-44
               - ml-96
+      - url: /images/empathy-logo.svg
+        altText: Empathy logo
+        type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
