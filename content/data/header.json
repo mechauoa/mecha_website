@@ -59,7 +59,7 @@
                     "type": "Link",
                     "label": "Opportunities",
                     "altText": "",
-                    "url": "mechauoa.netlify.app/opportunities/",
+                    "url": "/opportunities/",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
