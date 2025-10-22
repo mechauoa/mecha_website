@@ -5,7 +5,7 @@
         "links": [
             {
                 "label": "Events",
-                "altText": "Features page",
+                "altText": "Events page",
                 "url": "/events",
                 "icon": "arrowRight",
                 "iconPosition": "right",
