@@ -63,7 +63,7 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
-    variant: next-prev-nav-multiple
+    variant: dots-nav
     colors: bg-light-fg-dark
     styles:
       self:
