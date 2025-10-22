@@ -90,6 +90,8 @@ author: content/data/isabella.json
 ---
 Write a short event recap here!!
 
+Choose your name in the left hand "author" dropdown (you should exist as a person object)
+
 Remember to add a few highlight pics
 
 ![](/images/img-placeholder.svg)
