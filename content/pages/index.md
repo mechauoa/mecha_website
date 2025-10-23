@@ -247,6 +247,7 @@ sections:
           self:
             margin:
               - ml-80
+              - mr-80
       - url: /images/beca small.jpg
         altText: Beca logo
         type: ImageBlock
