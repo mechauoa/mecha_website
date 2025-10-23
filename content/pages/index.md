@@ -237,7 +237,7 @@ sections:
             margin:
               - ml-96
               - mr-96
-      - url: /images/crown.jpg
+      - url: /images/Crown-Grey-Logo.jpg
         altText: Crown logo
         type: ImageBlock
       - url: /images/fph.jpg
