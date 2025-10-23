@@ -78,7 +78,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/images.jpg
+      url: /images/IMG_0859.JPG
   - type: FeaturedItemsSection
     title:
       text: Our Mission
