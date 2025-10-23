@@ -187,7 +187,7 @@ sections:
             self:
               borderRadius: x-large
               margin:
-                - ml-4
+                - ml-6
                 - mt-2
                 - mb-1
         actions: []
