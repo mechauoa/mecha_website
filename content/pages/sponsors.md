@@ -38,7 +38,7 @@ sections:
               margin:
                 - ml-28
                 - mr-28
-                - mt-7
+                - mt-11
                 - mb-7
         actions: []
         colors: bg-light-fg-dark
