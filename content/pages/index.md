@@ -246,7 +246,7 @@ sections:
         styles:
           self:
             margin:
-              - ml-80
+              - ml-96
               - mr-96
       - url: /images/beca small.jpg
         altText: Beca logo
