@@ -201,7 +201,36 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: center
-            textAlign: center
+      - type: FeaturedItem
+        title: Jacobs
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/jacobs.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+              margin:
+                - ml-4
+                - mt-2
+                - mb-1
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+            justifyContent: center
+            textAlign: left
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
