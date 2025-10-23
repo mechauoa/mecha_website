@@ -77,7 +77,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 20
+      opacity: 64
       url: /images/IMG_0859.JPG
   - type: FeaturedItemsSection
     title:
