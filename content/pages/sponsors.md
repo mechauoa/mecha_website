@@ -111,6 +111,8 @@ sections:
           styles:
             self:
               borderRadius: x-large
+              margin:
+                - mt-8
         actions: []
         colors: bg-light-fg-dark
         styles:
