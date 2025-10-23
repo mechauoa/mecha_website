@@ -113,6 +113,7 @@ sections:
               borderRadius: x-large
               margin:
                 - mt-14
+                - mb-24
         actions: []
         colors: bg-light-fg-dark
         styles:
