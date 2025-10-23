@@ -240,7 +240,7 @@ sections:
             margin:
               - ml-96
               - mr-96
-      - url: /images/sanity-logo.svg
+      - url: /images/jane street.jpg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/beca small.jpg
