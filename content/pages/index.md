@@ -229,7 +229,7 @@ sections:
         textAlign: center
   - subtitle: Our Sponsors for 2025
     images:
-      - url: /images/Beca-Logo-Large.png
+      - url: /images/beca small.jpg
         altText: Beca logo
         type: ImageBlock
         styles:
