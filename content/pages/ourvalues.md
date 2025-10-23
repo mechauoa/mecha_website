@@ -49,9 +49,11 @@ sections:
         self:
           textAlign: center
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      MECHA supports students in both their personal and professional
+      development, creating opportunities for meaningful connections and growth
+      that prepare them to enter the engineering industry with confidence.
+
     actions:
       - type: Button
         label: Get started
