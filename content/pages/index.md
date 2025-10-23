@@ -241,7 +241,7 @@ sections:
       - url: /images/beca small.jpg
         altText: Beca logo
         type: ImageBlock
-    motion: move-to-left
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
