@@ -29,47 +29,6 @@
             "elementId": ""
         },
         {
-            "type": "SubNav",
-            "label": "Resources",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "Educational",
-                    "altText": "",
-                    "url": "/educational/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Wellness",
-                    "altText": "",
-                    "url": "/wellbeing/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Opportunities",
-                    "altText": "",
-                    "url": "/opportunities/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary"
-        },
-        {
             "label": "About Us",
             "altText": "Dropdown",
             "links": [
