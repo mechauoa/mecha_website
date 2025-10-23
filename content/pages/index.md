@@ -236,7 +236,7 @@ sections:
           self:
             margin:
               - ml-0
-              - mr-96
+              - mr-0
       - url: /images/Crown-Grey-Logo.jpg
         altText: Crown logo
         type: ImageBlock
