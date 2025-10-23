@@ -258,6 +258,10 @@ sections:
       - url: /images/Beca-Logo-Large.png
         altText: Beca logo
         type: ImageBlock
+        styles:
+          self:
+            margin:
+              - ml-96
     motion: static
     colors: bg-light-fg-dark
     styles:
