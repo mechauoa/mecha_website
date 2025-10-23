@@ -262,6 +262,7 @@ sections:
           self:
             margin:
               - ml-96
+              - mr-96
     motion: static
     colors: bg-light-fg-dark
     styles:
