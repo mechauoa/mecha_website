@@ -233,7 +233,7 @@ sections:
         altText: Crown logo
         type: ImageBlock
       - url: /images/fph.jpg
-        altText: Contentful logo
+        altText: FPH logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
