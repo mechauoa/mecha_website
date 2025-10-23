@@ -244,6 +244,7 @@ sections:
           self:
             margin:
               - ml-96
+              - mr-96
       - url: /images/fph.jpg
         altText: FPH logo
         type: ImageBlock
