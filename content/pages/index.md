@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: MECHA UOA
+        title: What is MECHA?
         tagline: Welcome
         subtitle: 'Mechanical and Mechatronics Student Association, UoA'
         text: |+
