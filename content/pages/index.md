@@ -249,7 +249,7 @@ sections:
               - ml-96
               - mr-96
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/jacobs.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
