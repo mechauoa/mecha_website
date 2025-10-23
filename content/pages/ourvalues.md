@@ -83,6 +83,7 @@ sections:
         flexDirection: row
       subtitle:
         textAlign: center
+        fontStyle: italic
     media:
       type: ImageBlock
       url: /images/IMG_0870.JPG
