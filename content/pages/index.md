@@ -232,7 +232,7 @@ sections:
       - url: /images/crown.jpg
         altText: Crown logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/fph.jpg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/sanity-logo.svg
