@@ -189,6 +189,7 @@ sections:
               margin:
                 - ml-5
                 - mt-3
+                - mb-1
         actions: []
         colors: bg-light-fg-dark
         styles:
