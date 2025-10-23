@@ -97,6 +97,9 @@ sections:
       type: TitleBlock
       text: Education
       color: text-dark
+      styles:
+        self:
+          textAlign: center
     subtitle: Be in good company
     text: >
       A service that provides advice and guidance to startups and small
