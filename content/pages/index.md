@@ -238,7 +238,7 @@ sections:
         styles:
           self:
             margin:
-              - ml-80
+              - ml-96
               - mr-80
       - url: /images/sanity-logo.svg
         altText: Sanity logo
