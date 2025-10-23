@@ -70,7 +70,7 @@ sections:
         style: primary
     badge:
       type: Badge
-      label: key
+      label: professional insight
       color: text-primary
       styles:
         self:
