@@ -188,7 +188,7 @@ sections:
               borderRadius: x-large
               margin:
                 - ml-4
-                - mt-3
+                - mt-2
                 - mb-1
         actions: []
         colors: bg-light-fg-dark
