@@ -83,6 +83,14 @@ sections:
         flexDirection: row
       subtitle:
         textAlign: center
+    media:
+      type: ImageBlock
+      url: /images/hero2.svg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
 slug: ourvalues
 isDraft: false
 seo:
