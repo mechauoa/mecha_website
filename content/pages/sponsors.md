@@ -30,7 +30,7 @@ sections:
           Follow the tutorial to build your first Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Beca-Logo-Large.png
           altText: Placeholder image
           styles:
             self:
