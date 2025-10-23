@@ -243,6 +243,10 @@ sections:
       - url: /images/jane street.jpg
         altText: Sanity logo
         type: ImageBlock
+        styles:
+          self:
+            margin:
+              - ml-80
       - url: /images/beca small.jpg
         altText: Beca logo
         type: ImageBlock
