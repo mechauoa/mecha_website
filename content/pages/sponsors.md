@@ -37,7 +37,7 @@ sections:
               borderRadius: x-large
               margin:
                 - ml-28
-                - mr-12
+                - mr-28
         actions: []
         colors: bg-light-fg-dark
         styles:
