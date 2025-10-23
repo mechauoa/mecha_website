@@ -200,7 +200,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            justifyContent: center
+            justifyContent: flex-end
             textAlign: center
     actions: []
     variant: three-col-grid
