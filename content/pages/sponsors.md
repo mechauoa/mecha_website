@@ -156,7 +156,7 @@ sections:
           Follow the tutorial to build your first Netlify site.
         image:
           type: ImageBlock
-          url: /images/jane street.jpg
+          url: /images/Jane_Street_Capital_Logo.svg.png
           altText: Placholder image
           styles:
             self:
