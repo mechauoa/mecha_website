@@ -255,7 +255,7 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - url: /images/Beca logo.png
+      - url: /images/Beca-Logo-Large.png
         altText: Beca logo
         type: ImageBlock
     motion: static
