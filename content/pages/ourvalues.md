@@ -134,6 +134,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+      subtitle:
+        textAlign: center
 slug: ourvalues
 isDraft: false
 seo:
