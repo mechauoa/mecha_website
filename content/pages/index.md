@@ -239,7 +239,7 @@ sections:
           self:
             margin:
               - ml-96
-              - mr-80
+              - mr-96
       - url: /images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
