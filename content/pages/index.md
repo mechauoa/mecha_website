@@ -240,6 +240,10 @@ sections:
       - url: /images/Crown-Grey-Logo.jpg
         altText: Crown logo
         type: ImageBlock
+        styles:
+          self:
+            margin:
+              - ml-96
       - url: /images/fph.jpg
         altText: FPH logo
         type: ImageBlock
