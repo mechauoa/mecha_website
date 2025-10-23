@@ -230,7 +230,7 @@ sections:
   - subtitle: Our Sponsors for 2025
     images:
       - url: /images/crown.jpg
-        altText: Empathy logo
+        altText: Crown logo
         type: ImageBlock
       - url: /images/contenful-logo.svg
         altText: Contentful logo
