@@ -70,7 +70,7 @@ sections:
         style: primary
     badge:
       type: Badge
-      label: This is a badge
+      label: key
       color: text-primary
       styles:
         self:
