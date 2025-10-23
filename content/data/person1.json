@@ -9,7 +9,8 @@
                 "borderRadius": "medium",
                 "margin": [
                     "mb-8",
-                    "ml-2"
+                    "ml-2",
+                    "mr-2"
                 ]
             }
         },
