@@ -248,6 +248,13 @@ sections:
             margin:
               - ml-96
               - mr-96
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/beca small.jpg
         altText: Beca logo
         type: ImageBlock
