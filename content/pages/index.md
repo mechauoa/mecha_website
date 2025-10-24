@@ -93,7 +93,7 @@ sections:
       them with valuable skills and lifelong connections.
     items:
       - type: FeaturedItem
-        title: Industry
+        title: Events
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
