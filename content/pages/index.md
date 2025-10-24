@@ -170,7 +170,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: Diversity & Wellbeing
+        title: Student Support
         subtitle: Creating a safe and inclusive community
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
