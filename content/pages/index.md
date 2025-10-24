@@ -260,7 +260,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: This is a badge
+      label: JOIN us today!
       color: text-primary
       styles:
         self:
