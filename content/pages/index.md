@@ -245,7 +245,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: What does uni with MECHA look like?
         url: /
         showIcon: true
         icon: arrowRight
