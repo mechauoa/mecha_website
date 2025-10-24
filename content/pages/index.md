@@ -266,6 +266,8 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+      subtitle:
+        textAlign: center
   - subtitle: Our Sponsors for 2025
     images:
       - url: /images/beca small.jpg
