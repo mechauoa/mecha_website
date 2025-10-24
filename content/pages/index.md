@@ -264,7 +264,7 @@ sections:
     colors: bg-neutral-fg-dark
     styles:
       self:
-        alignItems: center
+        alignItems: flex-start
         justifyContent: center
       subtitle:
         textAlign: center
