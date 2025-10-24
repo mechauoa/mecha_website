@@ -167,7 +167,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             margin:
-              - mb-6
+              - mb-24
         type: FeaturedItem
       - type: FeaturedItem
         title: Student Support
