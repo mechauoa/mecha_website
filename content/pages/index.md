@@ -166,6 +166,8 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            margin:
+              - mb-6
         type: FeaturedItem
       - type: FeaturedItem
         title: Student Support
