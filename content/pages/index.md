@@ -6,6 +6,33 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
+        title: What is MECHA?
+        tagline: Welcome
+        subtitle: We are the Mechanical and Mechatronics Student Association at UoA.
+        text: |+
+          Blurb here about our club
+
+        image:
+          type: ImageBlock
+          url: /images/MECHA LOGO SALMONELLA.png
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
         title: >-
           “Quote from some important person goes right here. I love using
           Netlify.”
@@ -37,33 +64,6 @@ sections:
             margin:
               - mt-20
               - mb-16
-      - type: FeaturedItem
-        title: What is MECHA?
-        tagline: Welcome
-        subtitle: We are the Mechanical and Mechatronics Student Association at UoA.
-        text: |+
-          Blurb here about our club
-
-        image:
-          type: ImageBlock
-          url: /images/MECHA LOGO SALMONELLA.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
     variant: tabs-nav
     colors: bg-dark-fg-light
     styles:
