@@ -261,7 +261,7 @@ sections:
       styles:
         self:
           textAlign: center
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
