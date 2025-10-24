@@ -146,7 +146,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Social
+      - title: Social Events
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
