@@ -239,7 +239,7 @@ sections:
       posts.
     actions:
       - type: Button
-        label: Get started
+        label: Sign up to be a member here!
         url: /
         icon: arrowRight
         iconPosition: right
