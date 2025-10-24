@@ -121,7 +121,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Education
+      - title: Workshops
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
