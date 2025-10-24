@@ -14,7 +14,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/1740961161188_Screen Shot 2025-02-28 at 3.27.19 PM.png
           altText: Maria Walters
           styles:
             self:
