@@ -8,7 +8,7 @@ sections:
       - type: FeaturedItem
         title: What is MECHA?
         tagline: Welcome
-        subtitle: 'Mechanical and Mechatronics Student Association, UoA'
+        subtitle: We are the Mechanical and Mechatronics Student Association at UoA.
         text: |+
           Blurb here about our club
 
