@@ -197,6 +197,8 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
+            margin:
+              - mb-7
     actions:
       - label: See our Prospectus for more on our mission!
         altText: ''
