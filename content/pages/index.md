@@ -294,7 +294,7 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - subtitle: ''
+  - subtitle: ______
     images:
       - type: ImageBlock
         url: /images/beca-resized.png
