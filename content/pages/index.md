@@ -123,10 +123,9 @@ sections:
                 - mr-6
       - title: Masterclasses & Workshops
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Learn new skills and put classroom theory to practical use in our
+          workshop classes and build events!
         image:
           url: /images/book.png
           altText: Featured icon two
