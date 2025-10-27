@@ -269,7 +269,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: Uni with MECHA
+        label: "★\_Uni with MECHA"
         url: /events
         showIcon: true
         icon: arrowRight
