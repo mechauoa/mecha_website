@@ -88,10 +88,17 @@ author: content/data/person1.json
 ---
 Bringing back the biannual Staff vs. Student sports tournament this year has been an absolute blast! We were excited to kick off Sem 2 this year with a Volleyball tournament! Part 2 Mechatronics was able to take home the win over Pt 3's, after an intense 5 set final showdown. Unforetunately (or foretunately for us), the students took the win this year, but we can't forget the amazing opportunity this event provided to connect with our lecturers, tutors and admin teams. This event really helped bridge the gap between the students and staff with friendly competition, and we certainly did not miss the opportunity to get back for those pesky tests on the court!
 
+Thank you everyone who came, and thank you to all the beloved MECH department staff who are so important in curating a strong and safe community in the department. We really appreciate all of you, and your special dedication to our cohorts and studies. We look forward to seeing everyone back on the courts next year!
+
+
 ![](https://devserver-preview--mechauoa.netlify.app/_static/app-assets/public/images/20250925_122945.jpg)
 
 ![](/images/20250925_120531.jpg)
 
-Thank you everyone who came, and thank you to all the beloved MECH department staff who are so important in curating a strong and safe community in the department. We really appreciate all of you, and your special dedication to our cohorts and studies. We look forward to seeing everyone back on the courts next year!
+*Winners: Pt II Mechatronics*
+
+*Shield-Winners: Pt IV*
+
+*and our Staff and Postgrad Team!*
 
 ![](/images/20250925_140549.jpg)![](/images/20250925_140436.jpg)![](/images/20250925_140500.jpg)
