@@ -237,7 +237,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Increase your reach
+    subtitle: >-
+      A membership with us allows to connect with so many like-minded engineers
+      and professionals in the indsutry.
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
