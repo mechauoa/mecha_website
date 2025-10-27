@@ -173,6 +173,9 @@ sections:
       type: ImageBlock
       url: /images/DSCF9487_cocktail_final.jpg
       altText: Fun feature preview
+      styles:
+        self:
+          borderRadius: small
     badge:
       type: Badge
       label: This is a badge
