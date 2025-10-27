@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Our Pillars blah blah
+        title: How does MECHA's values shape your experience with our club?
         tagline: Testimonial 1
         subtitle: ''
         text: >+
