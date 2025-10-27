@@ -175,7 +175,7 @@ sections:
       altText: Fun feature preview
       styles:
         self:
-          borderRadius: small
+          borderRadius: medium
     badge:
       type: Badge
       label: This is a badge
