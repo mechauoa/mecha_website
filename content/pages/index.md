@@ -297,7 +297,7 @@ sections:
   - subtitle: Our Sponsors for 2025
     images:
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/beca-resized.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
