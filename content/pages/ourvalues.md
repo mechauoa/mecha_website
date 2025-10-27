@@ -124,6 +124,9 @@ sections:
       type: ImageBlock
       url: /images/IMG_1794.JPG
       altText: Dope design preview
+      styles:
+        self:
+          borderRadius: small
     badge:
       type: Badge
       label: This is a badge
