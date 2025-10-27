@@ -6,7 +6,7 @@ excerpt: >-
   The bi-annual staff vs students sporting tournament is back from 2025! We were
   excited to compete in Volleyball this semester...
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/20250925_140500.jpg
   altText: Case study 2
   styles:
     self:
