@@ -296,14 +296,6 @@ sections:
         textAlign: center
   - subtitle: Our Sponsors for 2025
     images:
-      - url: /images/jane street.jpg
-        altText: Sanity logo
-        type: ImageBlock
-        styles:
-          self:
-            margin:
-              - ml-96
-              - mr-96
       - type: ImageBlock
         url: /images/jacobs.png
         altText: Image alt text placeholder
