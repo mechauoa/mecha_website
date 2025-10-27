@@ -297,7 +297,7 @@ sections:
   - subtitle: Our Sponsors for 2025
     images:
       - type: ImageBlock
-        url: /images/jacobs.png
+        url: /images/jacobs-resized.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
