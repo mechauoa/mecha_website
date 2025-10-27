@@ -142,7 +142,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Social
       color: text-dark
       styles:
         self:
