@@ -339,6 +339,10 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - posts:
       - content/pages/blog/case-study-3.md
       - content/pages/blog/staff-vs-student-sem22025.md
