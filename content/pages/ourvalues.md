@@ -46,7 +46,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 54
+      opacity: 66
       url: /images/IMG_0682.JPG
   - type: GenericSection
     title:
