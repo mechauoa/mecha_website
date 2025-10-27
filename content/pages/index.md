@@ -325,6 +325,7 @@ sections:
     type: ImageGallerySection
   - posts:
       - content/pages/blog/staff-vs-student-sem22025.md
+      - content/pages/blog/case-study-3.md
     showThumbnail: true
     showDate: true
     showAuthor: true
