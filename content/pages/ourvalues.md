@@ -3,7 +3,7 @@ type: PageLayout
 title: Our Values
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: MECHA's vision
     items:
       - type: FeaturedItem
         title: Our Pillars blah blah
