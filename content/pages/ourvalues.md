@@ -188,6 +188,8 @@ sections:
       self:
         alignItems: center
         justifyContent: center
+      subtitle:
+        textAlign: center
 slug: ourvalues
 isDraft: false
 seo:
