@@ -100,7 +100,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Be in good company
+    subtitle: Refining practical skills outside of the lecture theatre.
     text: >+
       Through practical challenges and academic enrichment, MECHA ignites
       curiosity and drives our members to explore and excel in the world of
