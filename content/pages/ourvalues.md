@@ -195,7 +195,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Diversity &
+      text: Diversity & Wellbeing
       color: text-dark
       styles:
         self:
