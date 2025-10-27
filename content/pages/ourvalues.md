@@ -101,9 +101,11 @@ sections:
         self:
           textAlign: center
     subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Through practical challenges and academic enrichment, MECHA ignites
+      curiosity and drives our members to explore and excel in the world of
+      Mechanical and Mechatronics Engineering.
+
     actions:
       - type: Button
         label: Get started
