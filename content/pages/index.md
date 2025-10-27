@@ -221,7 +221,7 @@ sections:
     actions:
       - label: See our Values page for more on our mission!
         altText: ''
-        url: /
+        url: /ourvalues
         showIcon: false
         icon: arrowRight
         iconPosition: right
