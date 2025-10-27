@@ -34,7 +34,7 @@ sections:
             flexDirection: row
             justifyContent: center
     variant: dots-nav
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center
