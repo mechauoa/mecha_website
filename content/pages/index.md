@@ -323,7 +323,8 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts: []
+  - posts:
+      - content/pages/blog/staff-vs-student-sem22025.md
     showThumbnail: true
     showDate: true
     showAuthor: true
