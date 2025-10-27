@@ -201,9 +201,11 @@ sections:
         self:
           textAlign: center
     subtitle: Ensuring students have support and are safe during their time with us.
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      MECHA upholds a strong commitment to providing support and advocacy for
+      underrepresented groups to ensure equitable opportunities and a sense of
+      belonging in engineering.
+
     actions:
       - type: Button
         label: Get started
