@@ -294,7 +294,7 @@ sections:
         textAlign: center
       text:
         textAlign: center
-  - subtitle: Our Sponsors for 2025
+  - subtitle: ''
     images:
       - type: ImageBlock
         url: /images/beca-resized.png
