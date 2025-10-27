@@ -367,7 +367,7 @@ sections:
     title:
       type: TitleBlock
       text: Recent Events
-      color: text-neutral
+      color: text-light
       styles:
         self:
           textAlign: center
