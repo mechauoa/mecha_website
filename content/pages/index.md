@@ -167,6 +167,7 @@ sections:
             self:
               margin:
                 - ml-2
+                - mt-4
         actions: []
         colors: bg-dark-fg-light
         styles:
