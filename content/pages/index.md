@@ -341,7 +341,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: Our Sponsors for 2025
       color: text-dark
   - posts:
       - content/pages/blog/case-study-3.md
