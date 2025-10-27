@@ -241,8 +241,8 @@ sections:
       A membership with us allows to connect with so many like-minded engineers
       and professionals in the indsutry.
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      Sign up below, and collect a sticker from one of our friendly execs at the
+      next event.
     actions:
       - type: Button
         label: Sign up to be a member here!
