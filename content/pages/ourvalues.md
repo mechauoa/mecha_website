@@ -34,6 +34,7 @@ sections:
             justifyContent: center
             margin:
               - ml-12
+              - mr-12
     variant: dots-nav
     colors: bg-dark-fg-light
     styles:
