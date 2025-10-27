@@ -7,7 +7,7 @@ sections:
     items:
       - type: FeaturedItem
         title: How does MECHA's values shape your experience with our club?
-        tagline: Testimonial 1
+        tagline: Our Values
         subtitle: ''
         text: >+
           We carefully plan events under the following pillars, which connect,
