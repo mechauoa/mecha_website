@@ -129,7 +129,7 @@ sections:
           borderRadius: medium
     badge:
       type: Badge
-      label: This is a badge
+      label: learning
       color: text-primary
       styles:
         self:
