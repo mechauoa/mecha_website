@@ -26,10 +26,7 @@ bottomSections:
   - items:
       - title: UoA MECH Staff
         tagline: This event was in collaboration with
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+        subtitle: Thank You!!
         image:
           url: /images/The_University_of_Auckland_Logo.png
           altText: Company logo
