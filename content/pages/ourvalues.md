@@ -229,7 +229,7 @@ sections:
           borderRadius: medium
     badge:
       type: Badge
-      label: helping
+      label: supporting
       color: text-primary
       styles:
         self:
