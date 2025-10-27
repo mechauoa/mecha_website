@@ -3,7 +3,9 @@ type: PageLayout
 title: Our Values
 sections:
   - type: CarouselSection
-    subtitle: MECHA's values drive our events and directions of focus.
+    subtitle: >-
+      We carefully plan events under the following pillars, which connect,
+      educate and inspire the next generation of engineers.
     items:
       - type: FeaturedItem
         title: Our Pillars blah blah
