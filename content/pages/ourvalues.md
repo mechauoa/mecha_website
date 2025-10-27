@@ -3,9 +3,7 @@ type: PageLayout
 title: Our Values
 sections:
   - type: CarouselSection
-    subtitle: >-
-      We carefully plan events under the following pillars, which connect,
-      educate and inspire the next generation of engineers.
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Our Pillars blah blah
