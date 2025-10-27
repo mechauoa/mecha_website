@@ -154,10 +154,11 @@ sections:
         type: FeaturedItem
       - title: Social Events
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          A fun community always makes your studies a lot lighter! Through
+          events like Cocktail Night, and Sports Tournaments we provide
+          opportunities to meet new people, and make more memories with your
+          friends and classmates. 
         image:
           url: /images/user.png
           altText: Featured icon three
