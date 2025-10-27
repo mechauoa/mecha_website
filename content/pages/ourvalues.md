@@ -151,7 +151,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Increase your reach
+    subtitle: Get within the MECHA community!
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
