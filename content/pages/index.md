@@ -157,8 +157,7 @@ sections:
         text: >
           A fun community always makes your studies a lot lighter! Through
           events like Cocktail Night, and Sports Tournaments we provide
-          opportunities to meet new people, and make more memories with your
-          friends and classmates. 
+          opportunities to meet new people, and make lots of lasting memories.
         image:
           url: /images/user.png
           altText: Featured icon three
