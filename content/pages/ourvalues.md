@@ -3,7 +3,7 @@ type: PageLayout
 title: Our Values
 sections:
   - type: CarouselSection
-    subtitle: MECHA's vision
+    subtitle: MECHA's values drive our events and directions of focus.
     items:
       - type: FeaturedItem
         title: Our Pillars blah blah
