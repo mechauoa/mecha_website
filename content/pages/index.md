@@ -296,14 +296,6 @@ sections:
         textAlign: center
   - subtitle: Our Sponsors for 2025
     images:
-      - url: /images/fph.jpg
-        altText: FPH logo
-        type: ImageBlock
-        styles:
-          self:
-            margin:
-              - ml-96
-              - mr-96
       - url: /images/jane street.jpg
         altText: Sanity logo
         type: ImageBlock
