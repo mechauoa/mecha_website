@@ -228,6 +228,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        justifyContent: center
 slug: ourvalues
 isDraft: false
 seo:
