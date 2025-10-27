@@ -200,7 +200,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Be in good company
+    subtitle: Ensuring students have support and are safe during their time with us.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
