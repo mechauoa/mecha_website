@@ -120,6 +120,7 @@ sections:
               margin:
                 - ml-2
                 - mt-4
+                - mr-6
       - title: Masterclasses & Workshops
         subtitle: ''
         text: >-
