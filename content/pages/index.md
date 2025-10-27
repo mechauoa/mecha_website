@@ -91,7 +91,7 @@ sections:
       them with valuable skills and lifelong connections.
     items:
       - type: FeaturedItem
-        title: Industry Events
+        title: Connecting with Industry
         subtitle: ''
         text: |
           Events like Speed Interview
