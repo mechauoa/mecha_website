@@ -179,7 +179,7 @@ sections:
           borderRadius: medium
     badge:
       type: Badge
-      label: This is a badge
+      label: connecting
       color: text-primary
       styles:
         self:
