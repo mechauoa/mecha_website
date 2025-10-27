@@ -221,7 +221,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: This is a badge
+      label: helping
       color: text-primary
       styles:
         self:
