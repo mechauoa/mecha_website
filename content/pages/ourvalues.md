@@ -9,10 +9,10 @@ sections:
         title: Our Pillars blah blah
         tagline: Testimonial 1
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          We carefully plan events under the following pillars, which connect,
+          educate and inspire the next generation of engineers.
+
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
