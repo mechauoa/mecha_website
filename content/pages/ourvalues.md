@@ -70,7 +70,7 @@ sections:
         style: primary
     badge:
       type: Badge
-      label: connecting
+      label: preparing
       color: text-primary
       styles:
         self:
