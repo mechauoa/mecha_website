@@ -7,7 +7,7 @@ excerpt: >-
   excited to compete in Volleyball this semester...
 featuredImage:
   url: /images/20250925_140500.jpg
-  altText: Case study 2
+  altText: Staff Team!
   styles:
     self:
       borderRadius: x-large
