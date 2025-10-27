@@ -1,6 +1,6 @@
 ---
 title: Staff vs Students Volleyball
-slug: case-study-2
+slug: staff-vs-student-sem22025
 date: '2025-09-25'
 excerpt: >-
   The bi-annual staff vs students sporting tournament is back from 2025! We were
