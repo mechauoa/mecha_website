@@ -323,8 +323,7 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
+  - posts: []
     showThumbnail: true
     showDate: true
     showAuthor: true
