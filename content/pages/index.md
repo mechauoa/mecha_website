@@ -343,6 +343,9 @@ sections:
       type: TitleBlock
       text: Our Sponsors for 2025
       color: text-dark
+      styles:
+        self:
+          textAlign: center
   - posts:
       - content/pages/blog/case-study-3.md
       - content/pages/blog/staff-vs-student-sem22025.md
