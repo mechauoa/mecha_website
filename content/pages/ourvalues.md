@@ -33,7 +33,7 @@ sections:
             flexDirection: row
             justifyContent: center
             margin:
-              - ml-16
+              - ml-20
               - mr-16
     variant: dots-nav
     colors: bg-dark-fg-light
