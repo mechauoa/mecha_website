@@ -38,53 +38,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Apply now
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    subtitle: 2026 Exec Applications open now <3
-    items:
-      - type: FeaturedItem
-        title: MECHA General Executive
-        subtitle: ''
-        text: |
-          As a MECHA exec, 
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            textAlign: left
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    variant: toggle-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pb-40
-          - pt-16
-          - pl-3
-          - pr-3
-        justifyContent: center
-      subtitle:
-        textAlign: center
 slug: meetourteam
 seo:
   type: Seo
