@@ -47,6 +47,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/IMG_0682.JPG
   - type: GenericSection
     title:
       type: TitleBlock
