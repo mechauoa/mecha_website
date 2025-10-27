@@ -22,7 +22,7 @@
             },
             {
                 "label": "Contact Us",
-                "url": "/",
+                "url": "/contactus",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
