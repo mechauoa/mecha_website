@@ -237,6 +237,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontStyle: italic
 slug: ourvalues
 isDraft: false
 seo:
