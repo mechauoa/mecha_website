@@ -42,7 +42,7 @@ sections:
         textAlign: center
     backgroundImage:
       type: BackgroundImage
-      altText: altText of the image
+      altText: Pt II Welcome Lunch
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
