@@ -195,7 +195,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Diversity &
       color: text-dark
       styles:
         self:
