@@ -235,6 +235,8 @@ sections:
         alignItems: center
         flexDirection: row-reverse
         justifyContent: center
+      subtitle:
+        textAlign: center
 slug: ourvalues
 isDraft: false
 seo:
