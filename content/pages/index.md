@@ -296,14 +296,6 @@ sections:
         textAlign: center
   - subtitle: Our Sponsors for 2025
     images:
-      - url: /images/beca-resized.png
-        altText: Beca logo
-        type: ImageBlock
-        styles:
-          self:
-            margin:
-              - ml-0
-              - mr-0
       - url: /images/Crown-Grey-Logo.jpg
         altText: Crown logo
         type: ImageBlock
