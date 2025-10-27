@@ -371,7 +371,7 @@ sections:
       styles:
         self:
           textAlign: center
-          fontWeight: 400
+          fontWeight: 700
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
