@@ -219,7 +219,7 @@ sections:
               - mb-7
               - mr-0
     actions:
-      - label: See our Prospectus for more on our mission!
+      - label: See our Values page for more on our mission!
         altText: ''
         url: /
         showIcon: false
