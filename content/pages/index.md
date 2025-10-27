@@ -269,7 +269,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: What does uni with MECHA look like?
+        label: Uni with MECHA
         url: /events
         showIcon: true
         icon: arrowRight
