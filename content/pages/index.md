@@ -128,6 +128,10 @@ sections:
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
+          styles:
+            self:
+              margin:
+                - ml-2
         actions: []
         colors: bg-dark-fg-light
         styles:
