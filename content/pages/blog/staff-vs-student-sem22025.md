@@ -36,7 +36,7 @@ bottomSections:
           styles:
             self:
               margin:
-                - ml-44
+                - ml-4
           type: ImageBlock
         colors: bg-light-fg-dark
         styles:
