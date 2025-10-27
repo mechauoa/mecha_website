@@ -117,6 +117,8 @@ sections:
           styles:
             self:
               borderRadius: x-large
+              margin:
+                - ml-2
       - title: Masterclasses & Workshops
         subtitle: ''
         text: >-
