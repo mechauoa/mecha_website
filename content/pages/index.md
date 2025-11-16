@@ -89,7 +89,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items: []
     actions: []
     variant: two-col-grid
