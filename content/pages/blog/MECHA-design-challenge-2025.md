@@ -14,7 +14,7 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
-isFeatured: true
+isFeatured: false
 seo:
   metaTitle: MECHA Design Challenge
   metaDescription: MECHA's annual design challenge. Presenting Aquabots for 2026!
