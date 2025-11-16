@@ -23,9 +23,20 @@ styles:
 type: PostLayout
 author: content/data/ezra.json
 ---
+MECHA's flagship event MDC (MECHA Design Challenge) is back again this year with a fresh and unique engineering task — build an Aquabot capable of navigating three obstacle courses and impressing our judges in a design presentation.
 
-Interdum posuere lorem ipsum dolor sit amet consectetur. Odio morbi quis commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Vitae aliquet nec ullamcorper sit. Gravida arcu ac tortor dignissim convallis aenean. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Est ultricies integer quis auctor. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Vel risus commodo viverra maecenas accumsan lacus. Donec adipiscing tristique risus nec feugiat in fermentum. Habitasse platea dictumst quisque sagittis purus sit. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Id leo in vitae turpis massa sed. Auctor elit sed vulputate mi sit. Gravida arcu ac tortor dignissim convallis aenean et.
+Contestants kicked off at 9am for this one-day sprint, diving straight into designing and building with piping, clothes hangers, pool noodles (and lots of duct tape) to create an aquatic robot that could tackle our challenges. Efficient prototyping, creative innovation, and strong teamwork were all essential for success.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Auctor augue mauris augue neque gravida in fermentum et. Eget mi proin sed libero enim sed faucibus turpis in. Semper auctor neque vitae tempus. Nibh nisl condimentum id venenatis a condimentum vitae sapien. Et malesuada fames ac turpis egestas sed tempus urna. Tristique magna sit amet purus gravida. Lobortis elementum nibh tellus molestie. Natoque penatibus et magnis dis parturient montes nascetur. Lacus sed viverra tellus in hac habitasse platea. Duis ultricies lacus sed turpis tincidunt id aliquet risus. Vitae congue eu consequat ac felis donec et. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Lobortis mattis aliquam faucibus purus in massa tempor nec feugiat. In nibh mauris cursus mattis molestie. Proin libero nunc consequat interdum varius sit amet. Molestie at elementum eu facilisis sed odio morbi quis commodo.
+This year’s technical brief required teams to work with three waterproof motors paired with an Ethernet-based control system as the core of their navigation setup. Beyond those required components, students had full creative freedom, including access to 3D printing, custom fixtures, unique buoyancy solutions, and whatever clever mechanisms they could dream up.
 
-Vitae congue mauris rhoncus aenean vel elit scelerisque mauris. Ac tincidunt vitae semper quis lectus nulla at volutpat diam. Eget arcu dictum varius duis at consectetur lorem. Nec ullamcorper sit amet risus nullam eget felis. Laoreet non curabitur gravida arcu ac tortor. Cursus metus aliquam eleifend mi in. Faucibus vitae aliquet nec ullamcorper sit amet. Consectetur a erat nam at lectus urna. Porttitor eget dolor morbi non arcu risus quis varius quam. Condimentum mattis pellentesque id nibh tortor id aliquet. Augue neque gravida in fermentum..
+A huge congratulations to Team Cup O’ Cabbage for taking first place and securing the cash prize with their engineering ingenuity and well-executed design!
+
+Overall, it was a high-energy, hands-on, and genuinely fun day for everyone involved. It was amazing seeing all the unique solutions taken through design, prototype, test stages before they finally faced the courses in HIWA pool.
+
+MECHA extends a massive thank-you to NZ Aquabots and the HIWA Sport and Rec team at the University of Auckland for their support, guidance, and for providing key supplies and space that made this event possible. We couldn’t have done it without you!
+
+
+
+
+
+![](/images/IMG_1910.JPG)*2026 Winners: Cup O' Cabbage with Judge Keegan from our 2025 Sponsor, Crown Robotics.*
