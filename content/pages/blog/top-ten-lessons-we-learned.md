@@ -13,7 +13,7 @@ featuredImage:
 isFeatured: true
 seo:
   metaTitle: MECHA Design Challenge
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: MECHA's annual design challenge. Presenting Aquabots for 2026!
   socialImage: /images/abstract-feature2.svg
   type: Seo
 colors: bg-light-fg-dark
