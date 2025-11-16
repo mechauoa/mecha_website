@@ -13,7 +13,7 @@ topSections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/wellness-ice-cream-2026.md
+      - content/pages/blog/MECHA-design-challenge-2025.md
       - content/pages/blog/MECHA-design-challenge.md
     showThumbnail: true
     showExcerpt: true
