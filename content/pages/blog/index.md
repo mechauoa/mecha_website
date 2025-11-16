@@ -46,7 +46,7 @@ bottomSections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/life-of-our-development-team.md
+      - content/pages/blog/event-post.md
       - content/pages/blog/surround-yourself-with-right-people.md
       - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: true
