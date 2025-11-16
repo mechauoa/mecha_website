@@ -27,6 +27,11 @@ styles:
       - pl-5
       - pb-5
       - pr-5
+    margin:
+      - mt-2
+      - ml-2
+      - mb-2
+      - mr-2
 type: PostLayout
 author: content/data/ezra.json
 ---
