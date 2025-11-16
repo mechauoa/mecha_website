@@ -21,7 +21,7 @@ seo:
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: row
+    flexDirection: col
 type: PostLayout
 author: content/data/ezra.json
 ---
