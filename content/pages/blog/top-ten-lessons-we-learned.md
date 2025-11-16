@@ -1,7 +1,7 @@
 ---
 title: MECHA Design Challenge
 slug: top-ten-lessons-we-learned
-date: '2025-09-02'
+date: '2025-09-12'
 excerpt: Mini event recap here. Please append link to photos to the botto
 featuredImage:
   url: /images/abstract-feature2.svg
