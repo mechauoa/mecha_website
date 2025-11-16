@@ -27,7 +27,7 @@ sections:
                 - mt-0
               padding:
                 - pr-8
-                - pl-8
+                - pl-7
                 - pt-0
                 - pb-8
         actions: []
