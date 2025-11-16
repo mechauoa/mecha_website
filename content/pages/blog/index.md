@@ -48,7 +48,7 @@ bottomSections:
     posts:
       - content/pages/blog/event-post.md
       - content/pages/blog/MECHA-design-challenge.md
-      - content/pages/blog/top-twenty-ways-to-save-time.md
+      - content/pages/blog/wellness-ice-cream-2025.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
