@@ -18,7 +18,7 @@ sections:
           university to the industry.
         image:
           type: ImageBlock
-          url: /images/MECHA Round Cut.png
+          url: /images/Untitled design (1).png
           altText: Maria Walters
           styles:
             self:
