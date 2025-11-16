@@ -1,6 +1,6 @@
 ---
 title: Bouldering
-slug: event-post
+slug: bouldering-sem2-2025
 date: '2025-10-03'
 excerpt: >-
   With exams creeping closer, MECHA took a much-needed wellness break at
