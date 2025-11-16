@@ -248,7 +248,7 @@ sections:
               - mb-7
         type: FeaturedItem
       - type: FeaturedItem
-        title: Student Support
+        title: Community Support
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
