@@ -1,6 +1,6 @@
 ---
 title: MECHA Design Challenge
-slug: top-ten-lessons-we-learned
+slug: MECHA-design-challenge
 date: '2025-09-12'
 excerpt: Mini event recap here. Please append link to photos to the botto
 featuredImage:
