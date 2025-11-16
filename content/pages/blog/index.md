@@ -14,7 +14,7 @@ topSections:
           textAlign: center
     posts:
       - content/pages/blog/MECHA-design-challenge-2025.md
-      - content/pages/blog/MECHA-design-challenge.md
+      - content/pages/blog/staff-vs-student-sem22025.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
