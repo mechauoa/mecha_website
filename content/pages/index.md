@@ -84,7 +84,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: Our Mission
       color: text-dark
       styles:
         self:
