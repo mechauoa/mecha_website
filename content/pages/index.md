@@ -28,6 +28,7 @@ sections:
               padding:
                 - pr-8
                 - pl-8
+                - pt-8
         actions: []
         colors: bg-light-fg-dark
         styles:
