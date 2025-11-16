@@ -147,7 +147,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-1
+          - pt-14
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
