@@ -85,7 +85,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: A Message from our Presidents
+    subtitle: A Message from our Presidents!
     items: []
     actions: []
     variant: two-col-grid
