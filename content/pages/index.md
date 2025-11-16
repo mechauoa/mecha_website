@@ -180,6 +180,9 @@ sections:
       type: Badge
       label: What is MECHA about?
       color: text-primary
+      styles:
+        self:
+          textAlign: center
   - type: CarouselSection
     items:
       - type: FeaturedItem
