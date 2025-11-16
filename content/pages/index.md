@@ -23,6 +23,8 @@ sections:
           styles:
             self:
               borderRadius: full
+              margin:
+                - mt-24
         actions: []
         colors: bg-light-fg-dark
         styles:
