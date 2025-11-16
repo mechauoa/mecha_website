@@ -18,7 +18,7 @@ sections:
           university to the industry.
         image:
           type: ImageBlock
-          url: /images/MECHA LOGO SALMONELLA.png
+          url: /images/MECHA Round Cut.png
           altText: Maria Walters
           styles:
             self:
