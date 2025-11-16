@@ -14,7 +14,6 @@ topSections:
           textAlign: center
     posts:
       - content/pages/blog/event-post.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
