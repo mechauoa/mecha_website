@@ -26,7 +26,7 @@ sections:
               margin:
                 - mt-0
               padding:
-                - pr-14
+                - pr-8
                 - pl-8
         actions: []
         colors: bg-light-fg-dark
