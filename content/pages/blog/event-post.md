@@ -1,5 +1,5 @@
 ---
-title: Event Title
+title: Bouldering
 slug: event-post
 date: '2023-03-18'
 excerpt: >-
