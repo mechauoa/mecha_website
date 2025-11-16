@@ -301,7 +301,7 @@ sections:
           textAlign: center
       type: Badge
     elementId: ''
-    variant: big-list
+    variant: two-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
