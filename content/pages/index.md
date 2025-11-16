@@ -16,20 +16,6 @@ sections:
           sharpening their interviewing skills to networking with industry
           members, MECHA is a fantastic stepping stone to aid the leap from
           university to the industry.
-        image:
-          type: ImageBlock
-          url: /images/Untitled design (1).png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-              margin:
-                - mt-0
-              padding:
-                - pr-4
-                - pl-4
-                - pt-4
-                - pb-4
         actions: []
         colors: bg-light-fg-dark
         styles:
