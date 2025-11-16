@@ -6,7 +6,7 @@
             {
                 "label": "Events",
                 "altText": "Events page",
-                "url": "/events",
+                "url": "/blog",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
