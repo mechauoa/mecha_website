@@ -80,6 +80,11 @@ styles:
     borderWidth: 0
     borderRadius: x-large
     flexDirection: col
+    margin:
+      - mt-2
+      - ml-2
+      - mb-2
+      - mr-2
 type: PostLayout
 author: content/data/person1.json
 ---
