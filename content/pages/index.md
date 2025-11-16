@@ -24,7 +24,7 @@ sections:
             self:
               borderRadius: full
               margin:
-                - mt-24
+                - mt-0
         actions: []
         colors: bg-light-fg-dark
         styles:
