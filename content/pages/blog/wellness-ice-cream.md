@@ -1,6 +1,6 @@
 ---
 title: Wellness Ice Cream
-slug: case-study-3
+slug: wellness-ice-cream
 date: '2025-10-22'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
