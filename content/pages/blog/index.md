@@ -10,7 +10,7 @@ topSections:
       type: TitleBlock
     subtitle: ''
     posts:
-      - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/MECHA-design-challenge.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
