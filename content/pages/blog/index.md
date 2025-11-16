@@ -14,7 +14,7 @@ topSections:
           textAlign: center
     posts:
       - content/pages/blog/wellness-ice-cream-2026.md
-      - content/pages/blog/five-tips-for-starting-a-startup.md
+      - content/pages/blog/MECHA-design-challenge.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
