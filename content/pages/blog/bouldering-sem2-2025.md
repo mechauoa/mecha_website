@@ -19,7 +19,7 @@ isDraft: false
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: row
+    flexDirection: col
 author: content/data/person2.json
 type: PostLayout
 ---
