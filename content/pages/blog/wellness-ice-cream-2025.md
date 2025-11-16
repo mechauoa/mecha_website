@@ -3,10 +3,8 @@ title: Wellness Ice Cream
 slug: wellness-ice-cream-2025
 date: '2025-10-22'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  In Collaboration with Project Wellbeing, we ended the year on a sweet high
+  with our annual free wellbeing Ice Cream event!
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 3
