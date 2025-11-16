@@ -8,7 +8,13 @@ sections:
       - type: FeaturedItem
         title: Who are we?
         tagline: Welcome
-        subtitle: We are the Mechanical and Mechatronics Student Association at UoA.
+        subtitle: >-
+          The Mechanical and Mechatronics Student Association (MECHA) is a
+          student-led group that aims to connect students with the industry and
+          equip them with the skills to excel in their chosen field. From
+          sharpening their interviewing skills to networking with industry
+          members, MECHA is a fantastic stepping stone to aid the leap from
+          university to the industry.
         text: |+
           Blurb here about our club
 
