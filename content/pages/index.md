@@ -114,7 +114,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Hi there.
         tagline: A Message from our Presidents
         subtitle: Increase your reach
         text: >-
