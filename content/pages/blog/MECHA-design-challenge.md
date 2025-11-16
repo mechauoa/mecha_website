@@ -2,7 +2,11 @@
 title: MECHA Design Challenge
 slug: MECHA-design-challenge
 date: '2025-09-12'
-excerpt: Mini event recap here. Please append link to photos to the botto
+excerpt: >-
+  MECHA's flagship event MDC (MECHA Design Challenge) is back again this year
+  with a fresh and unique engineering task — build an Aquabot capable of
+  navigating three obstacle courses and impressing our judges in a design
+  presentation.
 featuredImage:
   url: /images/IMG_1910.JPG
   altText: Thumbnail
