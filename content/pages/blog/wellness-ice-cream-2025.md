@@ -77,7 +77,7 @@ styles:
       - pl-5
       - pb-5
       - pr-5
-    textAlign: center
+    textAlign: left
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
