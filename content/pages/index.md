@@ -156,10 +156,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: >-
-      As the Student Association for Mechanical and Mechatronics Students, we
-      aim to support students to excel in their chosen specialisation, and equip
-      them with valuable skills and lifelong connections.
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: Connecting with Industry
