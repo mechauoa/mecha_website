@@ -31,6 +31,7 @@ sections:
             justifyContent: center
             margin:
               - ml-10
+              - mr-10
       - type: FeaturedItem
         title: yay
         tagline: A Message from our Presidents
