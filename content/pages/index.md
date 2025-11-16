@@ -22,7 +22,7 @@ sections:
           self:
             padding:
               - pt-9
-              - pb-9
+              - pb-14
               - pl-9
               - pr-9
             textAlign: center
