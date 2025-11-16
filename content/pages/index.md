@@ -28,7 +28,7 @@ sections:
               padding:
                 - pr-4
                 - pl-4
-                - pt-0
+                - pt-4
                 - pb-8
         actions: []
         colors: bg-light-fg-dark
