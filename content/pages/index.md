@@ -190,7 +190,7 @@ sections:
         subtitle: ''
         text: >
           Learn new skills and put classroom theory to practical use in our
-          workshop classes and exciting build competitions!
+          workshop classes and exciting design & build competitions!
         image:
           url: /images/book.png
           altText: Featured icon two
