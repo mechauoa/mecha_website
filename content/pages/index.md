@@ -115,7 +115,7 @@ sections:
     items:
       - type: FeaturedItem
         title: A Message from our Presidents
-        tagline: A Message from our Presidents
+        tagline: ''
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
