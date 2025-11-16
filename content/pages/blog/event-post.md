@@ -3,9 +3,9 @@ title: Bouldering
 slug: event-post
 date: '2025-10-03'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  With exams creeping closer, MECHA took a much-needed wellness break at
+  Auckland Climbing Gym, Parnell. The goal was simple: step away from the study
+  grind, move a little, and enjoy a relaxed afternoon together.
 featuredImage:
   url: /images/abstract-feature1.svg
   altText: Thumbnail
