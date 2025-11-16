@@ -89,7 +89,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: A Message from our Presidents
     items: []
     actions: []
     variant: two-col-grid
