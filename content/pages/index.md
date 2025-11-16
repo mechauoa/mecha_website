@@ -114,7 +114,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Hi there.
+        title: A Message from our Presidents
         tagline: A Message from our Presidents
         subtitle: Increase your reach
         text: >-
