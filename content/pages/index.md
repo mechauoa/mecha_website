@@ -29,7 +29,7 @@ sections:
                 - pr-4
                 - pl-4
                 - pt-4
-                - pb-8
+                - pb-4
         actions: []
         colors: bg-light-fg-dark
         styles:
