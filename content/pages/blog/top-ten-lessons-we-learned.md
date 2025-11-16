@@ -1,5 +1,5 @@
 ---
-title: Fun title
+title: MECHA Design Challenge
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: Mini event recap here. Please append link to photos to the botto
