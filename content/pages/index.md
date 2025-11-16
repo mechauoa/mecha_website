@@ -176,6 +176,10 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    badge:
+      type: Badge
+      label: What is MECHA about?
+      color: text-primary
   - type: CarouselSection
     items:
       - type: FeaturedItem
