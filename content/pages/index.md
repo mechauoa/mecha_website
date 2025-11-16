@@ -299,7 +299,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: What is mecha about?
+      label: ''
       color: text-primary
       styles:
         self:
