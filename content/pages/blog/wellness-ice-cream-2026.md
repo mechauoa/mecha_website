@@ -1,6 +1,6 @@
 ---
 title: Wellness Ice Cream
-slug: wellness-ice-cream
+slug: wellness-ice-cream-2026
 date: '2025-10-22'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
