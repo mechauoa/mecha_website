@@ -4,7 +4,7 @@ slug: MECHA-design-challenge
 date: '2025-09-12'
 excerpt: Mini event recap here. Please append link to photos to the botto
 featuredImage:
-  url: /images/abstract-feature2.svg
+  url: /images/IMG_1910.JPG
   altText: Thumbnail
   type: ImageBlock
   styles:
