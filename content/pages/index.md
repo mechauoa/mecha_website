@@ -159,7 +159,7 @@ sections:
         text: >
           Events like Speed Interviews connects you to valued Industry
           professionals. Join us to explore the countless career possibilities
-          beyond Uni and find your niche.
+          beyond university and find your niche.
         actions: []
         elementId: null
         colors: bg-dark-fg-light
