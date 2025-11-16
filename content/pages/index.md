@@ -150,7 +150,7 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Our Mission
+      text: ''
       color: text-dark
       styles:
         self:
