@@ -19,10 +19,10 @@ sections:
       - content/data/person6.json
       - content/data/elsa.json
       - content/data/ezra.json
+      - content/data/ellaa.json
       - content/data/kia.json
       - content/data/jonty.json
       - content/data/isabella.json
-      - content/data/ellaa.json
       - content/data/stacie.json
       - content/data/spencer.json
     actions: []
