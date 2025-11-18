@@ -439,6 +439,27 @@ sections:
       styles:
         self:
           textAlign: center
+  - type: RecentPostsSection
+    title:
+      type: TitleBlock
+      text: Recent posts
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    recentCount: 3
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: shadow-plus-move-up
+    styles:
+      self:
+        justifyContent: center
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
