@@ -8,7 +8,7 @@ topSections:
     title:
       type: TitleBlock
       text: Recent Events
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
