@@ -26,7 +26,7 @@ sections:
       - content/data/stacie.json
       - content/data/spencer.json
     actions: []
-    variant: mixed-grid
+    variant: four-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
