@@ -20,7 +20,7 @@ topSections:
     actions: []
     elementId: ''
     variant: two-col-grid
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     hoverEffect: thick-underline
     styles:
       self:
