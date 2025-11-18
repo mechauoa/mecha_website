@@ -15,7 +15,7 @@ featuredImage:
     self:
       borderRadius: medium
 bottomSections: []
-isFeatured: false
+isFeatured: true
 isDraft: false
 seo:
   metaTitle: Track the right analytics for your business
