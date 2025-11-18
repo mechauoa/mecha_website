@@ -18,13 +18,13 @@ sections:
       - content/data/person5.json
       - content/data/person6.json
       - content/data/elsa.json
+      - content/data/ezra.json
       - content/data/kia.json
       - content/data/jonty.json
       - content/data/isabella.json
       - content/data/ellaa.json
       - content/data/stacie.json
       - content/data/spencer.json
-      - content/data/ezra.json
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
