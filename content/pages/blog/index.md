@@ -19,7 +19,7 @@ topSections:
     showAuthor: true
     actions: []
     elementId: ''
-    variant: three-col-grid
+    variant: big-list
     colors: bg-light-fg-dark
     hoverEffect: shadow-plus-move-up
     styles:
