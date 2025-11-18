@@ -7,7 +7,7 @@ topSections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: Recent Events
       color: text-dark
       styles:
         self:
