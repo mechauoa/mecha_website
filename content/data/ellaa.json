@@ -6,7 +6,7 @@
     "image": {
         "type": "ImageBlock",
         "url": "/images/avatar1.svg",
-        "altText": "First Last",
+        "altText": "Ella Arnold",
         "styles": {
             "self": {
                 "borderRadius": "medium",
