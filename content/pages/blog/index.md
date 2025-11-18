@@ -21,7 +21,7 @@ topSections:
     elementId: ''
     variant: two-col-grid
     colors: bg-light-fg-dark
-    hoverEffect: thin-underline
+    hoverEffect: thick-underline
     styles:
       self:
         justifyContent: center
