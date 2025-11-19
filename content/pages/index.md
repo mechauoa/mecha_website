@@ -140,7 +140,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/ella and sasha.jpg
           altText: Featured item
           styles:
             self:
