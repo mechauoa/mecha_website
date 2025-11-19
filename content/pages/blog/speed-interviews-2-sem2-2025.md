@@ -6,10 +6,7 @@ author: content/data/person3.json
 excerpt: >-
   MECHA Speed Interviews was back for the 2nd time this semster, an energizing
   evening that brought together students and industry professionals for a
-  rapid-fire, “speed-dating” style interview experience. The event buzzed with
-  energy from start to finish as students moved from table to table, gaining
-  real-time insight, feedback, and meaningful connections with engineers,
-  recruiters, and technical professionals from a variety of companies.
+  rapid-fire, “speed-dating” style interview ...
 featuredImage:
   type: ImageBlock
   url: /images/20250515_191207.jpg
