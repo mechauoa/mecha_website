@@ -110,13 +110,7 @@ sections:
       curiosity and drives our members to explore and excel in the world of
       Mechanical and Mechatronics Engineering.
 
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/IMG_1794.JPG
