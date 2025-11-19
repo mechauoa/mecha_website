@@ -10,7 +10,7 @@ featuredImage:
   altText: Case study 3
   styles:
     self:
-      borderRadius: x-large
+      borderRadius: medium
   type: ImageBlock
 bottomSections:
   - title: Divider
