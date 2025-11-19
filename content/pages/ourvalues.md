@@ -185,13 +185,6 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    media:
-      type: ImageBlock
-      url: /images/P1090023.jpg
-      altText: Dope design preview
-      styles:
-        self:
-          borderRadius: medium
     badge:
       type: Badge
       label: supporting
