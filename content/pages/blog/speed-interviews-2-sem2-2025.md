@@ -19,6 +19,7 @@ featuredImage:
         - pl-0
         - pb-0
         - pr-0
+      borderRadius: medium
 bottomSections:
   - type: DividerSection
     title: Divider
