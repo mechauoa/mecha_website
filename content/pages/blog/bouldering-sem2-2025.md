@@ -7,7 +7,7 @@ excerpt: >-
   Auckland Climbing Gym, Parnell. The goal was simple: step away from the study
   grind, move a little, and enjoy a relaxed afternoon together.
 featuredImage:
-  url: /images/abstract-feature1.svg
+  url: /images/boul.JPEG
   altText: Thumbnail
   type: ImageBlock
   styles:
