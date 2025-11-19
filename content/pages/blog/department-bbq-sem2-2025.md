@@ -52,7 +52,7 @@ bottomSections:
         justifyContent: center
 slug: department-bbq-sem2-2025
 isFeatured: false
-isDraft: false
+isDraft: true
 seo:
   type: Seo
   metaTitle: lorem-ipsum
