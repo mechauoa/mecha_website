@@ -10,7 +10,7 @@ excerpt: >-
   morning giving out free coffees to students and staff.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/20250916_135629.jpg
   altText: Thumbnail
   elementId: ''
   styles:
