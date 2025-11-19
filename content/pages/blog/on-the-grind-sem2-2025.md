@@ -70,6 +70,11 @@ styles:
       - pl-5
       - pb-5
       - pr-5
+    margin:
+      - mt-2
+      - ml-2
+      - mb-2
+      - mr-2
 ---
 This week, MECHA hosted On The Grind, a coffee pop-up in the Terraces where our lovely exec Kia and her boss Indi moved their cafe, Little Things, to us, into campus. They came out early, set up a full coffee stand, and spent the morning giving out free coffees to students and staff.
 
