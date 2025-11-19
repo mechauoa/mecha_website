@@ -177,14 +177,7 @@ sections:
       underrepresented groups to ensure equitable opportunities and a sense of
       belonging in engineering.
 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     badge:
       type: Badge
       label: supporting
