@@ -12,7 +12,7 @@ excerpt: >-
   recruiters, and technical professionals from a variety of companies.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/20250515_191207.jpg
   altText: Speed Interviews 2
   elementId: ''
   styles:
