@@ -2,7 +2,7 @@
 type: PostLayout
 title: Speed Interviews 2
 date: '2025-05-15'
-author: content/data/person1.json
+author: content/data/person3.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
