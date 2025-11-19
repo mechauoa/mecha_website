@@ -39,5 +39,4 @@ Students bounced between different bouldering routes, trying out problems that r
 
 A big thanks to Auckland Climbing Gym for hosting us and providing such a welcoming space!
 
-
-
+![](/images/dee4139a05442bd7a7b626032fed8ce0.JPEG)
