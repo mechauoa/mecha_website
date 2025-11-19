@@ -140,14 +140,7 @@ sections:
       We recognise the important of a safe, and inclusive community during
       study. MECHA brings students together through fun and meaningful
       experiences that foster enduring connections within our network.
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: /images/DSCF9487_cocktail_final.jpg
