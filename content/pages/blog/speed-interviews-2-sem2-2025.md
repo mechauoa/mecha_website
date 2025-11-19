@@ -72,6 +72,11 @@ styles:
       - pl-5
       - pb-5
       - pr-5
+    margin:
+      - mt-2
+      - ml-2
+      - mb-2
+      - mr-2
 ---
 MECHA Speed Interviews was back for the 2nd time this semster, an energizing evening that brought together students and industry professionals for a rapid-fire, “speed-dating” style interview experience. The event buzzed with energy from start to finish as students moved from table to table, gaining real-time insight, feedback, and meaningful connections with engineers, recruiters, and technical professionals from a variety of companies.
 
