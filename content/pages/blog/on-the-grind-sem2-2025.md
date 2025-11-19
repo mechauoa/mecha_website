@@ -6,7 +6,7 @@ author: content/data/kia.json
 excerpt: >-
   This week, MECHA hosted On The Grind, a coffee pop-up in the Terraces where
   our lovely exec Kia and her boss Indi moved their cafe, Little Things Coffee,
-  to us, into ...
+  to us, ...
 featuredImage:
   type: ImageBlock
   url: /images/20250916_135629.jpg
