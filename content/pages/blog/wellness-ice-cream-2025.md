@@ -81,7 +81,7 @@ styles:
     borderColor: border-light
     borderStyle: none
     borderWidth: 0
-    borderRadius: x-large
+    borderRadius: none
     flexDirection: col
     margin:
       - mt-2
