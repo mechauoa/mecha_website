@@ -8,7 +8,7 @@ excerpt: >-
   grind, move a little, and enjoy a relaxed afternoon together.
 featuredImage:
   url: /images/boul.JPEG
-  altText: Thumbnail
+  altText: Bouldering
   type: ImageBlock
   styles:
     self:
