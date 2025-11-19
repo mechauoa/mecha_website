@@ -4,8 +4,12 @@ title: Speed Interviews 2
 date: '2025-05-15'
 author: content/data/person3.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  MECHA Speed Interviews was back for the 2nd time this semster, an energizing
+  evening that brought together students and industry professionals for a
+  rapid-fire, “speed-dating” style interview experience. The event buzzed with
+  energy from start to finish as students moved from table to table, gaining
+  real-time insight, feedback, and meaningful connections with engineers,
+  recruiters, and technical professionals from a variety of companies.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
