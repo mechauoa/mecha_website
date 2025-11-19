@@ -64,10 +64,25 @@ styles:
   self:
     flexDirection: col
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+MECHA Speed Interviews was back for the 2nd time this semster, an energizing evening that brought together students and industry professionals for a rapid-fire, “speed-dating” style interview experience. The event buzzed with energy from start to finish as students moved from table to table, gaining real-time insight, feedback, and meaningful connections with engineers, recruiters, and technical professionals from a variety of companies.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+The key skill students were able to practice through this event was their professional CV and interview skills. Interviews can be stressful, especially when you’re still early in your academic journey. Speed Interviews 2 gave students a chance to practice answering technical and behavioral questions in a low-pressure environment, while still receiving honest, constructive feedback from working professionals.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+By the end of the evening, students walked away with:
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   Sharper interview confidence through speedy, multiple back-to-back interview rounds
+
+*   Personalized advice on how to communicate their skills and expertise clearly and effectively
+
+*   Improved understanding of industry expectations in mechanical and mechatronics engineering roles
+
+One of the most valuable takeaways from the event was the feedback many students received. Industry professionals generously shared tips on formatting, technical content, and how to highlight experience in a way that stands out in job applications. A huge thank-you goes out to all the professionals who joined us. Your time, enthusiasm, and willingness to share your expertise made this event possible, and has given our students a huge confidence boost going into internship hunting season!
+
+
+
+![](/images/20250515_191207.jpg)
+
+
+
+![](/images/20250515_200408.jpg)![](/images/20250515_191132.jpg)
+
