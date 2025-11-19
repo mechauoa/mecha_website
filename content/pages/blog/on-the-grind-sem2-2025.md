@@ -4,8 +4,10 @@ title: On The Grind (with MECHA)
 date: '2025-09-16'
 author: content/data/kia.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  This week, MECHA hosted On The Grind, a coffee pop-up in the Terraces where
+  our lovely exec Kia and her boss Indi moved their cafe, Little Things, to us,
+  into campus. They came out early, set up a full coffee stand, and spent the
+  morning giving out free coffees to students and staff.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
