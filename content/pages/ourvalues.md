@@ -203,7 +203,7 @@ sections:
         fontStyle: italic
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/P1090023.jpg
       altText: Image alt text placeholder
       elementId: ''
       styles:
