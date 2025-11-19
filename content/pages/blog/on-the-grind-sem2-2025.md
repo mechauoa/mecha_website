@@ -64,10 +64,17 @@ styles:
   self:
     flexDirection: col
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+This week, MECHA hosted On The Grind, a coffee pop-up in the Terraces where our lovely exec Kia and her boss Indi moved their cafe, Little Things, to us, into campus. They came out early, set up a full coffee stand, and spent the morning giving out free coffees to students and staff.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+![](/images/IMG_2044.JPG)
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+The Terraces basically turned into a mini study café, the area buzzed with quiet conversations, people settling in with their drinks, and an overall calm, aesthetic vibe. The event was extremely popular. The line stayed steady the whole time, and everyone appreciated the caffeine boost and the chance to pause their day for a bit. Kia and her team were super friendly, chatting with people while making drinks and offering little coffee insights.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Indi also shared some coffee insights with us about different beans, roasts, and brewing styles which was a fun break from all the engineering study going on. Huge thanks to Kia, Indi, and their cafe for bringing such a great energy to campus, and thank you to everyone who stopped by and made the morning feel so welcoming.
+
+Follow Little Things Coffee's socials: @littlethingscoffeenz on instagram, and their website: www\.littlethingscoffee.co.nz
+
+![](/images/IMG_20250916_114757_989.webp)
+
+
+
