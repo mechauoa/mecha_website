@@ -64,14 +64,7 @@ sections:
       development, creating opportunities for meaningful connections and growth
       that prepare them to enter the engineering industry with confidence.
 
-    actions:
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     badge:
       type: Badge
       label: preparing
