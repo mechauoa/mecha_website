@@ -66,12 +66,9 @@ styles:
 ---
 Last week, MECHA hosted our department BBQ, and we’re really grateful to the department for funding and supporting the event. With their help, we set up the a "MECHA Burgería" and handed out around 300 free burgers to hungry, stressed students.
 
+![](/images/P1090023.jpg)
+
 It was great seeing so many people come through and chat with students from MECHA, and even other specs and degrees, whether they stopped by between classes or stayed to hang out for a bit. A massive thank you to you all, we ended up running out in about an hour!
 
-
 The atmosphere was relaxed and fun, with people sitting around, catching up, and enjoying the food and the weather. It was exactly the kind of community moment we hoped for. Thanks again to everyone who showed up and made the event feel so welcoming. And a huge thank you to the department for making it possible. Hope you all enjoyed the lunch <3
-
-
-
-
 
