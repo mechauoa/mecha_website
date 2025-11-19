@@ -11,7 +11,7 @@ excerpt: >-
 featuredImage:
   type: ImageBlock
   url: /images/20250916_135629.jpg
-  altText: Thumbnail
+  altText: On The Grind
   elementId: ''
   styles:
     self:
