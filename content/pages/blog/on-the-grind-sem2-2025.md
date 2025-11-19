@@ -2,7 +2,7 @@
 type: PostLayout
 title: On The Grind (with MECHA)
 date: '2025-09-16'
-author: content/data/person1.json
+author: content/data/kia.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
