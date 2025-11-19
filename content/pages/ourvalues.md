@@ -141,12 +141,6 @@ sections:
       study. MECHA brings students together through fun and meaningful
       experiences that foster enduring connections within our network.
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
