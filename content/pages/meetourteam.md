@@ -25,6 +25,7 @@ sections:
       - content/data/kia.json
       - content/data/stacie.json
       - content/data/spencer.json
+      - content/data/will.json
     actions: []
     variant: four-col-grid
     colors: bg-neutral-fg-dark
