@@ -2,7 +2,7 @@
 type: PostLayout
 title: Department BBQ Sem 2
 date: '2025-10-09'
-author: content/data/person1.json
+author: content/data/spencer.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
