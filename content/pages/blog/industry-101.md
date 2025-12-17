@@ -36,7 +36,7 @@ styles:
       - mr-2
 type: PostLayout
 author: content/data/isabella.json
-isDraft: true
+isDraft: false
 ---
 Last month’s Industry 101 event was a huge success! It was incredible to hear from professionals who generously shared their time, insights, and stories with our students. A big thank you to our speakers:
 
