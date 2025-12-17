@@ -465,7 +465,7 @@ seo:
   metaDescription: >-
     Official website for Mechanical and Mechatronics Association at University
     of Auckland
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/MECHA Round Cut.png
   type: Seo
 type: PageLayout
 ---
