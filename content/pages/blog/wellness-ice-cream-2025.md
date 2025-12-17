@@ -1,5 +1,5 @@
 ---
-title: Wellness Ice Cream
+title: Industry 101
 slug: wellness-ice-cream-2025
 date: '2025-10-22'
 excerpt: >-
