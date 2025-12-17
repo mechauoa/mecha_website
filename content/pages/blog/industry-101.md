@@ -1,6 +1,6 @@
 ---
 title: Industry 101
-slug: wellness-ice-cream-2025
+slug: industry-101
 date: '2025-03-21'
 excerpt: >-
   Last month’s Industry 101 event was a huge success! It was incredible to hear
