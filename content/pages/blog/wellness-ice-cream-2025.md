@@ -3,8 +3,9 @@ title: Industry 101
 slug: wellness-ice-cream-2025
 date: '2025-03-21'
 excerpt: >-
-  In Collaboration with Project Wellbeing, we ended the year on a sweet high
-  with our annual free wellbeing Ice Cream event!
+  Last month’s Industry 101 event was a huge success! It was incredible to hear
+  from professionals who generously shared their time, insights, and stories
+  with our students. A big thank you to our speakers:
 featuredImage:
   url: /images/img-placeholder.svg
   altText: Case study 3
