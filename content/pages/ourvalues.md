@@ -10,13 +10,13 @@ sections:
         tagline: Our Values
         subtitle: ''
         text: >+
-          MECHA is dedicated to empowering students and enhancing their overall
-          experience throughout their academic journey. We thoughtfully design
-          and deliver events guided by key pillars that focus on developing the
-          diverse skills we believe are essential for student growth within this
-          pathway. Through these initiatives, MECHA fosters impactful
-          experiences that empower students, strengthen skills, and inspire the
-          next wave of innovative engineers.
+          MECHA is driven by a strong commitment to student empowerment,
+          community, and meaningful growth throughout the academic journey.
+          Guided by our core values, we thoughtfully design and deliver events
+          built around key pillars that nurture both technical and personal
+          development. MECHA creates inclusive and impactful experiences that
+          build confidence, strengthen skills, and inspire a values-driven,
+          innovative next generation of engineers.
 
         image:
           type: ImageBlock
