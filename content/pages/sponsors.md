@@ -288,7 +288,7 @@ sections:
           - type: Link
             label: See Website
             altText: ''
-            url: '/https://www.janestreet.com/'
+            url: 'https://www.janestreet.com/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
