@@ -68,6 +68,5 @@ seo:
   metaTitle: Contact Us
   metaDescription: ''
   addTitleSuffix: true
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
