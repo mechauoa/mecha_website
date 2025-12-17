@@ -67,6 +67,6 @@ seo:
   type: Seo
   metaTitle: Contact Us
   metaDescription: ''
-  addTitleSuffix: true
+  addTitleSuffix: false
   metaTags: []
 ---
