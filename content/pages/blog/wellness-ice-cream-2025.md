@@ -12,17 +12,7 @@ featuredImage:
     self:
       borderRadius: medium
   type: ImageBlock
-bottomSections:
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+bottomSections: []
 isFeatured: false
 colors: bg-light-fg-dark
 styles:
