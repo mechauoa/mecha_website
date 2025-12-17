@@ -247,6 +247,5 @@ seo:
   metaTitle: Our Values
   metaDescription: ''
   addTitleSuffix: false
-  socialImage: /images/main-hero.jpg
   metaTags: []
 ---
