@@ -93,7 +93,7 @@ sections:
           - type: Link
             label: See Website
             altText: See Website
-            url: '/https://www.beca.com/'
+            url: 'https://www.beca.com/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
