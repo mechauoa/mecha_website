@@ -242,7 +242,7 @@ sections:
           - type: Link
             label: See Website
             altText: ''
-            url: '/https://www.jacobs.com/'
+            url: 'https://www.jacobs.com/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
