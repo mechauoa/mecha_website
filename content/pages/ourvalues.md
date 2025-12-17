@@ -245,8 +245,8 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Our Values
-  metaDescription: Write here your new page's description including most relevant keywords.
-  addTitleSuffix: true
+  metaDescription: ''
+  addTitleSuffix: false
   socialImage: /images/main-hero.jpg
   metaTags: []
 ---
