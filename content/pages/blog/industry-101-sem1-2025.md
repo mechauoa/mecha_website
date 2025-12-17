@@ -1,6 +1,6 @@
 ---
 title: Industry 101
-slug: industry-101
+slug: industry-101-sem1-2025
 date: '2025-03-21'
 excerpt: >-
   Last month’s Industry 101 event was a huge success! It was incredible to hear
