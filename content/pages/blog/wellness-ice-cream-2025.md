@@ -92,11 +92,18 @@ type: PostLayout
 author: content/data/isabella.json
 isDraft: true
 ---
-In Collaboration with Project Wellbeing, we ended the year on a sweet high with our annual free wellbeing Ice Cream event!
+Last month’s Industry 101 event was a huge success! It was incredible to hear from professionals who generously shared their time, insights, and stories with our students. A big thank you to our speakers:
 
-The initiative aimed to create a brief moment of relaxation during a busy time of year. Students were invited to stop by between classes, enjoy a scoop of ice cream, and take a short pause before returning to their study commitments. 
+[Emma Sim-Smith](https://www.linkedin.com/in/emma-sim-smith/) and [Luke Hynds](https://www.linkedin.com/in/luke-hynds/) from [Fisher & Paykel Healthcare](https://www.linkedin.com/company/fisher-&-paykel-healthcare/)
+[Sian Phillips](https://www.linkedin.com/in/sian-phillips-6a829b56/) and [Mark Bell](https://www.linkedin.com/in/mark-bell-nzl/) from [Crown Equipment Corporation](https://www.linkedin.com/company/crownequipment/)
+[Tong Roberts-Li](https://www.linkedin.com/in/tong-roberts-li-8ba2b092/), [Jessica Tucker](https://www.linkedin.com/in/jessica-tucker-5aba7710/), and [Isabel Ocampo](https://www.linkedin.com/in/isabel-ocampo/) from [Beca](https://www.linkedin.com/company/beca/)
+Tyler Hireme and [Elisha Alexander](https://www.linkedin.com/in/elisha-alexander-0a0050223/) from [Jacobs](https://www.linkedin.com/company/jacobs/)
+[Martin Lambrechtse-Reid](https://www.linkedin.com/in/martin-lambrechtse-reid-9943a7169/) from [University of Auckland](https://www.linkedin.com/company/university-of-auckland/)
 
-We extend our sincere thanks to everyone who came by, and to Project Wellbeing for collaborating with us to support student wellbeing at this important stage of the semester. Good Luck to everyone for the next few weeks of exam season, we wish you the very best <3
+Each speaker brought a unique perspective—whether it was life on-site, pathways into consulting, or cutting-edge work in innovation and sustainability.
 
+Events like these are vital for students—bridging the gap between lectures and real-world application, and reminding us of the exciting possibilities that lie ahead.
 
+Takeaway? Get involved, stay curious, and never be afraid to ask questions.
 
+![](/images/Screenshot%202025-12-17%20174814.png)![](/images/Screenshot%202025-12-17%20174846.png)![](/images/Screenshot%202025-12-17%20174841.png)
