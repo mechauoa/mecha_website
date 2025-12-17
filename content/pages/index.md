@@ -461,7 +461,7 @@ sections:
       self:
         justifyContent: center
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: MECHA UoA
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
