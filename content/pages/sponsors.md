@@ -148,7 +148,7 @@ sections:
           - type: Link
             label: See Website
             altText: ''
-            url: '/https://www.fphcare.com/nz/'
+            url: 'https://www.fphcare.com/nz/'
             showIcon: true
             icon: arrowRight
             iconPosition: right
