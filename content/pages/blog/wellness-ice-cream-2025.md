@@ -7,7 +7,7 @@ excerpt: >-
   from professionals who generously shared their time, insights, and stories
   with our students. A big thank you to our speakers:
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/Screenshot 2025-12-17 174814.png
   altText: Industry 101
   styles:
     self:
