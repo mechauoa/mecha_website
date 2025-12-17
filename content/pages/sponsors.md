@@ -33,7 +33,7 @@ sections:
     actions:
       - type: Link
         label: Would you like to Sponsor or work with us? Get in touch here
-        url: /contact-us
+        url: /contactus
         showIcon: true
         icon: arrowRight
         iconPosition: right
