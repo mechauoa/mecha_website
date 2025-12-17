@@ -1,7 +1,7 @@
 ---
 title: Industry 101
 slug: wellness-ice-cream-2025
-date: '2025-03-22'
+date: '2025-03-21'
 excerpt: >-
   In Collaboration with Project Wellbeing, we ended the year on a sweet high
   with our annual free wellbeing Ice Cream event!
