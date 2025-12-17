@@ -183,7 +183,7 @@ sections:
           - type: Link
             label: See Website
             altText: ''
-            url: '/https://www.crown.com/en-nz.html'
+            url: 'https://www.crown.com/en-nz.html'
             showIcon: true
             icon: arrowRight
             iconPosition: right
