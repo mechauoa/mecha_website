@@ -90,6 +90,7 @@ styles:
       - mr-2
 type: PostLayout
 author: content/data/isabella.json
+isDraft: true
 ---
 In Collaboration with Project Wellbeing, we ended the year on a sweet high with our annual free wellbeing Ice Cream event!
 
