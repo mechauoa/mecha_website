@@ -8,7 +8,7 @@ excerpt: >-
   with our students. A big thank you to our speakers:
 featuredImage:
   url: /images/img-placeholder.svg
-  altText: Case study 3
+  altText: Industry 101
   styles:
     self:
       borderRadius: medium
