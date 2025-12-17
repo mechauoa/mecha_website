@@ -462,7 +462,9 @@ sections:
         justifyContent: center
 seo:
   metaTitle: MECHA UoA
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Official website for Mechanical and Mechatronics Association at University
+    of Auckland
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
