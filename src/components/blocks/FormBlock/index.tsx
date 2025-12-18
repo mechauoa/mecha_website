@@ -17,8 +17,15 @@ export default function FormBlock(props) {
         event.preventDefault();
 
         const data = new FormData(formRef.current);
-        const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
+        const value = Object.fromEntries(data.entries()) as Record<string, string>;
+
+        fetch("/", {
+            method: "POST",
+            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+            body: new URLSearchParams(value).toString()
+        })
+            .then(() => alert("Form successfully submitted"))
+            .catch(error => alert(error));
     }
 
     return (
