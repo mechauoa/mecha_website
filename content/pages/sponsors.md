@@ -223,7 +223,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Jacobs
+        title: IMC
         tagline: Engineering & Consulting Services
         subtitle: ''
         text: "At Jacobs, we're challenging today to reinvent tomorrow\_– delivering outcomes and solutions for the world's most complex challenges. With approximately $12 billion in annual revenue and a team of almost 45,000, we provide end-to-end services in advanced manufacturing, cities and places, energy, environmental, life sciences, transportation and water. From advisory and consulting, feasibility, planning, design, program and lifecycle management, we're creating a more connected and sustainable world.\n\n"
