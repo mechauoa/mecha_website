@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: How does MECHA's values shape your experience with our club?
+        title: How does MECHA's values shape your experience with us?
         tagline: Our Values
         subtitle: ''
         text: >+
