@@ -434,7 +434,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: Our Sponsors for 2025
+      text: Our Sponsors for 2026
       color: text-dark
       styles:
         self:
