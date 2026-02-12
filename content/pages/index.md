@@ -411,7 +411,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/imc.png
+        url: /images/jacobs-resized.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
