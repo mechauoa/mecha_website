@@ -426,7 +426,7 @@ sections:
             borderRadius: medium
       - type: ImageBlock
         url: /images/hero2.svg
-        altText: Image alt text placeholder
+        altText: IMC Trading
         elementId: ''
         styles:
           self:
