@@ -1,7 +1,7 @@
 {
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/mecha-favicon.png",
     "footer": "content/data/footer.json",
-    "titleSuffix": "Theme Demo",
+    "titleSuffix": "MECHA UoA",
     "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
     "header": "content/data/header.json"
