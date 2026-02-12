@@ -437,6 +437,8 @@ sections:
         styles:
           self:
             borderRadius: medium
+            margin:
+              - ml-5
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
