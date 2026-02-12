@@ -237,7 +237,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/jacobs.png
+          url: /images/imc.png
           altText: Placeholder text
           styles:
             self:
