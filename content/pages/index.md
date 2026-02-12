@@ -391,7 +391,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/Beca-Logo-Black_1_resized.png
-        altText: Image alt text placeholder
+        altText: BECA
         elementId: ''
         styles:
           self:
