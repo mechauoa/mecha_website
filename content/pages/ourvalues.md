@@ -6,7 +6,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: How does MECHA's values shape your experience with our club?
+        title: How does MECHA's values shape your experience with us?
         tagline: Our Values
         subtitle: ''
         text: >+
@@ -50,7 +50,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       altText: Pt II Welcome Lunch
-      backgroundSize: auto
+      backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 66
@@ -63,7 +63,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Connecting with industry beyond University.
+    subtitle: Preparing students for life beyond University.
     text: >+
       MECHA supports students in both their personal and professional
       development, creating opportunities for meaningful connections and growth
