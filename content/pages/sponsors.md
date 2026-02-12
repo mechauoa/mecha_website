@@ -224,7 +224,7 @@ sections:
     items:
       - type: FeaturedItem
         title: IMC
-        tagline: Engineering & Consulting Services
+        tagline: Quantitive Trading
         subtitle: ''
         text: >+
           At IMC, we hire, develop, and empower exceptional people. We put the
