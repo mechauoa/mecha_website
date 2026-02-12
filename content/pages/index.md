@@ -412,6 +412,7 @@ sections:
             borderRadius: medium
             margin:
               - ml-5
+              - mr-5
       - type: ImageBlock
         url: /images/jacobs-resized.png
         altText: Image alt text placeholder
