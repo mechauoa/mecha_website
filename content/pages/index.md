@@ -390,19 +390,25 @@ sections:
   - subtitle: ____________
     images:
       - type: ImageBlock
-        url: /images/beca-resized.png
-        altText: Image alt text placeholder
+        url: /images/Beca-Logo-Black_1_resized.png
+        altText: BECA
         elementId: ''
         styles:
           self:
             borderRadius: medium
+            margin:
+              - ml-5
+              - mr-5
       - type: ImageBlock
-        url: /images/fph-resized.jpg
+        url: /images/fph_resized.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
+            margin:
+              - mr-5
+              - ml-5
       - type: ImageBlock
         url: /images/crown-resized.jpg
         altText: Image alt text placeholder
@@ -410,13 +416,9 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - type: ImageBlock
-        url: /images/jnst-resized.png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
+            margin:
+              - ml-5
+              - mr-5
       - type: ImageBlock
         url: /images/jacobs-resized.png
         altText: Image alt text placeholder
@@ -424,17 +426,50 @@ sections:
         styles:
           self:
             borderRadius: medium
+            margin:
+              - ml-5
+              - mr-5
+      - type: ImageBlock
+        url: /images/jnst-resized.png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+            margin:
+              - ml-5
+              - mr-5
+      - type: ImageBlock
+        url: /images/imc_resized_resized_resized.png
+        altText: IMC Trading
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+            margin:
+              - ml-5
+              - mr-5
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
       self:
         justifyContent: center
+        padding:
+          - pr-10
+          - pt-10
+          - pl-10
+          - pb-10
+        margin:
+          - mt-4
+          - ml-4
+          - mb-4
+          - mr-4
       subtitle:
         textAlign: center
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: Our Sponsors for 2025
+      text: Our Sponsors for 2026
       color: text-dark
       styles:
         self:
