@@ -408,6 +408,7 @@ sections:
             borderRadius: medium
             margin:
               - mr-5
+              - ml-5
       - type: ImageBlock
         url: /images/crown-resized.jpg
         altText: Image alt text placeholder
