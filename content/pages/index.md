@@ -426,6 +426,7 @@ sections:
             borderRadius: medium
             margin:
               - ml-2
+              - mr-2
       - type: ImageBlock
         url: /images/imc_resized_resized_resized.png
         altText: IMC Trading
