@@ -423,6 +423,8 @@ sections:
         styles:
           self:
             borderRadius: medium
+            margin:
+              - ml-5
       - type: ImageBlock
         url: /images/jnst-resized.png
         altText: Image alt text placeholder
