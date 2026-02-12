@@ -243,7 +243,7 @@ sections:
             self:
               borderRadius: x-large
               margin:
-                - ml-6
+                - ml-5
                 - mt-3
                 - mb-1
         actions:
