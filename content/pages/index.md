@@ -390,7 +390,7 @@ sections:
   - subtitle: ____________
     images:
       - type: ImageBlock
-        url: /images/beca-resized.png
+        url: /images/Beca-Logo-Black_1_resized.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
