@@ -245,7 +245,7 @@ sections:
               margin:
                 - ml-0
                 - mt-9
-                - mb-7
+                - mb-9
         actions:
           - type: Link
             label: See Website
