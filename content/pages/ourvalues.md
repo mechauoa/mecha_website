@@ -50,7 +50,7 @@ sections:
     backgroundImage:
       type: BackgroundImage
       altText: Pt II Welcome Lunch
-      backgroundSize: auto
+      backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 66
