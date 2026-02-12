@@ -63,7 +63,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Connecting with life beyond University.
+    subtitle: Preparing students for life beyond University.
     text: >+
       MECHA supports students in both their personal and professional
       development, creating opportunities for meaningful connections and growth
