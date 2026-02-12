@@ -223,7 +223,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: IMC
+        title: IMC Trading
         tagline: Quantitive Trading
         subtitle: ''
         text: >+
