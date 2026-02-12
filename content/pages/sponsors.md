@@ -224,7 +224,7 @@ sections:
     items:
       - type: FeaturedItem
         title: IMC Trading
-        tagline: Quantitive Trading
+        tagline: Quantitive Trading Firm
         subtitle: ''
         text: >+
           At IMC, we hire, develop, and empower exceptional people. We put the
