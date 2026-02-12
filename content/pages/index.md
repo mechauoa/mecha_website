@@ -439,6 +439,7 @@ sections:
             borderRadius: medium
             margin:
               - ml-5
+              - mr-5
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
