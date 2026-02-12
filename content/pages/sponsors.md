@@ -244,7 +244,7 @@ sections:
               borderRadius: x-large
               margin:
                 - ml-0
-                - mt-8
+                - mt-7
                 - mb-1
         actions:
           - type: Link
