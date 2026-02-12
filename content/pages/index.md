@@ -425,7 +425,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/imc_resized.png
+        url: /images/imc_resized_resized.png
         altText: IMC Trading
         elementId: ''
         styles:
