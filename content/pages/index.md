@@ -425,7 +425,7 @@ sections:
           self:
             borderRadius: medium
             margin:
-              - ml-2
+              - ml-5
               - mr-5
       - type: ImageBlock
         url: /images/imc_resized_resized_resized.png
