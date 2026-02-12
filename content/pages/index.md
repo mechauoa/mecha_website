@@ -396,6 +396,8 @@ sections:
         styles:
           self:
             borderRadius: medium
+            margin:
+              - ml-5
       - type: ImageBlock
         url: /images/fph-resized.jpg
         altText: Image alt text placeholder
