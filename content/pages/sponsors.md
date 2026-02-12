@@ -266,7 +266,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: col
-            justifyContent: center
+            justifyContent: flex-start
             textAlign: center
       - type: FeaturedItem
         title: Jane Street
