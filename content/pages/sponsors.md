@@ -267,7 +267,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
             justifyContent: flex-start
-            textAlign: center
+            textAlign: left
       - type: FeaturedItem
         title: Jane Street
         tagline: Quantitative Trading Firm
