@@ -411,14 +411,14 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/jnst-resized.png
+        url: /images/imc.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/imc.png
+        url: /images/jnst-resized.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
