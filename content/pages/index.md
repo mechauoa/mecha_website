@@ -357,10 +357,11 @@ sections:
     actions:
       - type: Button
         label: Sign up to be a member here!
-        url: /
+        url: 'https://forms.gle/EM6qErErqFqd7Z1o8'
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: MECHA Sign-Up Form
       - type: Link
         label: "★\_Uni with MECHA"
         url: /events
