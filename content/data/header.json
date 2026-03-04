@@ -49,14 +49,6 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Contact Us",
-                    "url": "/contactus/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
                     "type": "Link",
                     "label": "Merchandise",
                     "altText": "",
@@ -66,6 +58,14 @@
                     "iconPosition": "right",
                     "style": "primary",
                     "elementId": ""
+                },
+                {
+                    "label": "Contact Us",
+                    "url": "/contactus/",
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "type": "Link"
                 }
             ],
             "labelStyle": "secondary",
