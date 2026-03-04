@@ -30,7 +30,7 @@
         },
         {
             "label": "About Us",
-            "altText": "Dropdown",
+            "altText": "Header Dropdown",
             "links": [
                 {
                     "label": "Our Values",
