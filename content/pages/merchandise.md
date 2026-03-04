@@ -34,7 +34,7 @@ sections:
             textAlign: left
             borderRadius: medium
             flexDirection: row
-            justifyContent: center
+            justifyContent: flex-start
         text: |
           MECHA meets MERCH! Buy our custom 2026 MECHA T-shirt now!
 
