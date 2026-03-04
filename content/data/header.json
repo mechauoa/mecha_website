@@ -86,7 +86,7 @@
             "type": "Button",
             "label": "Contact Us",
             "altText": "",
-            "url": "/contactus",
+            "url": "/merchandise/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
