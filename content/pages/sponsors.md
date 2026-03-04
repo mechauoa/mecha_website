@@ -343,7 +343,7 @@ sections:
             self:
               borderRadius: x-large
               margin:
-                - mt-5
+                - mt-4
                 - mb-2
         actions:
           - type: Link
