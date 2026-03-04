@@ -68,7 +68,7 @@
             "url": "https://forms.gle/EM6qErErqFqd7Z1o8",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "type": "Button"
         },
         {
