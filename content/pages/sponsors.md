@@ -344,7 +344,7 @@ sections:
               borderRadius: x-large
         actions:
           - type: Link
-            label: See Tutorials
+            label: See Website
             altText: ''
             url: 'https://hera.org.nz/'
             showIcon: false
