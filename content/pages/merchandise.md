@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: MECHA T-Shirt
-        subtitle: $ 88 – $ 176
+        subtitle: $20
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
