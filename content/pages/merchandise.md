@@ -32,7 +32,7 @@ sections:
               - pb-6
               - pr-6
             textAlign: left
-            borderRadius: none
+            borderRadius: medium
             flexDirection: col
             justifyContent: center
         text: |
