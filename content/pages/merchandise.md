@@ -28,7 +28,7 @@ sections:
             altText: ''
             url: 'https://forms.gle/teukRAhKPc16Ep9A7'
             showIcon: true
-            icon: arrowRight
+            icon: shoppingBag
             iconPosition: right
             style: primary
             elementId: ''
