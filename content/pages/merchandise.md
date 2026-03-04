@@ -50,7 +50,7 @@ sections:
           - pl-8
           - pb-8
           - pr-8
-        justifyContent: flex-start
+        justifyContent: center
       subtitle:
         textAlign: center
 slug: merchandise
