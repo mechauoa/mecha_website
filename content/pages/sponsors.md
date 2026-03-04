@@ -250,7 +250,7 @@ sections:
           - type: Link
             label: See Website
             altText: ''
-            url: 'https://www.jacobs.com/'
+            url: 'https://www.imc.com/ap'
             showIcon: true
             icon: arrowRight
             iconPosition: right
@@ -316,6 +316,55 @@ sections:
             flexDirection: col
             justifyContent: flex-start
             textAlign: left
+      - type: FeaturedItem
+        title: HERA
+        tagline: Heavy Engineering Research Association
+        subtitle: ''
+        text: >+
+          HERA ensures the engineering sector in Aotearoa has the highest
+          standards of training and support. Connecting and uplifting, we
+          inspire smarter thinking and, in doing so, build for a better
+          tomorrow.
+
+
+          Our mahi is a blend of rangahau (research), innovation, education and
+          motivation. With specialist tools and expert insight we ensure our
+          engineering industry is fit for purpose and futureproofed. Supporting
+          our people to succeed helps our industry evolve, helps the wider
+          community grow, helps our country thrive.
+
+
+
+        image:
+          type: ImageBlock
+          url: /images/herA.png
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+              margin:
+                - mt-4
+                - mb-2
+        actions:
+          - type: Link
+            label: See Website
+            altText: ''
+            url: 'https://hera.org.nz/'
+            showIcon: true
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
