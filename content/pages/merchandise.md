@@ -17,7 +17,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
-          altText: Faux Fur Throw
+          altText: MECHA T-Shirt
           elementId: ''
           styles:
             self:
