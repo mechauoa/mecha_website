@@ -361,6 +361,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: MECHA Sign-Up Form
       - type: Link
         label: "★\_Uni with MECHA"
         url: /events
