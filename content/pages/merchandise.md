@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: 2026 MECHA Merchandise
       color: text-dark
       styles:
         self:
