@@ -12,7 +12,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: MECHA T-Shirt
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
