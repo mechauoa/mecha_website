@@ -29,7 +29,7 @@ sections:
             url: 'https://forms.gle/teukRAhKPc16Ep9A7'
             showIcon: true
             icon: shoppingBag
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
         colors: bg-light-fg-dark
