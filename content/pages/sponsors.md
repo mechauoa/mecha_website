@@ -318,7 +318,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: HERA
-        tagline: This is the tagline
+        tagline: Heavy Engineering Research Association
         subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
