@@ -420,7 +420,7 @@ sections:
               - ml-5
               - mr-5
       - type: ImageBlock
-        url: /images/hera_resized.png
+        url: /images/hera_resized1.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
