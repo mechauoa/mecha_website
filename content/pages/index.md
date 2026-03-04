@@ -357,7 +357,7 @@ sections:
     actions:
       - type: Button
         label: Sign up to be a member here!
-        url: /
+        url: 'https://forms.gle/EM6qErErqFqd7Z1o8'
         icon: arrowRight
         iconPosition: right
         style: secondary
