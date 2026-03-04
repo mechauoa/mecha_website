@@ -344,7 +344,7 @@ sections:
               borderRadius: x-large
               margin:
                 - mt-4
-                - mb-2
+                - mb-3
         actions:
           - type: Link
             label: See Website
