@@ -16,7 +16,7 @@ sections:
         subtitle: $20
         image:
           type: ImageBlock
-          url: /images/MECHA_BACK.png
+          url: /images/20250426_153632.jpg
           altText: MECHA T-Shirt
           elementId: ''
           styles:
