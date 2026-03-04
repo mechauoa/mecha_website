@@ -27,7 +27,7 @@ sections:
             label: Buy Now
             altText: ''
             url: 'https://forms.gle/teukRAhKPc16Ep9A7'
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: right
             style: primary
