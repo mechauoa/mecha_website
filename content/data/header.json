@@ -58,7 +58,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Merch",
+                    "label": "Merchandise",
                     "altText": "",
                     "url": "/merchandise/",
                     "showIcon": false,
