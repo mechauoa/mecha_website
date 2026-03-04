@@ -41,7 +41,7 @@ sections:
           Semester 1 orders close 2nd April.
     actions: []
     elementId: ''
-    variant: big-list
+    variant: small-list
     colors: bg-neutral-fg-dark
     styles:
       self:
