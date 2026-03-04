@@ -22,16 +22,7 @@ sections:
           styles:
             self:
               borderRadius: medium
-        actions:
-          - type: Link
-            label: Buy now
-            altText: Buy now
-            url: 'https://forms.gle/teukRAhKPc16Ep9A7'
-            showIcon: true
-            icon: shoppingBag
-            iconPosition: left
-            style: primary
-            elementId: ''
+        actions: []
         colors: bg-light-fg-dark
         styles:
           self:
