@@ -47,7 +47,7 @@ sections:
           - type: Button
             label: Join us today!
             altText: ''
-            url: '/https://forms.gle/VENt7VBQjvxfBbyg9'
+            url: 'https://forms.gle/Qt9zyeJ1KUWknbsa8'
             showIcon: false
             icon: arrowRight
             iconPosition: right
