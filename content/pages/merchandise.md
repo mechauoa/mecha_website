@@ -38,7 +38,7 @@ sections:
     actions: []
     elementId: ''
     variant: big-list
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
