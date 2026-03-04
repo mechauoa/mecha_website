@@ -58,7 +58,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Merchandise
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaDescription: MECHA Merchandise
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
