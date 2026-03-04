@@ -21,7 +21,7 @@ sections:
           elementId: ''
           styles:
             self:
-              borderRadius: small
+              borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
         styles:
