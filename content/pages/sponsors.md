@@ -320,8 +320,21 @@ sections:
         title: HERA
         tagline: Heavy Engineering Research Association
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          HERA ensures the engineering sector in Aotearoa has the highest
+          standards of training and support. Connecting and uplifting, we
+          inspire smarter thinking and, in doing so, build for a better
+          tomorrow.
+
+
+          Our mahi is a blend of rangahau (research), innovation, education and
+          motivation. With specialist tools and expert insight we ensure our
+          engineering industry is fit for purpose and futureproofed. Supporting
+          our people to succeed helps our industry evolve, helps the wider
+          community grow, helps our country thrive.
+
+
+
         image:
           type: ImageBlock
           url: /images/herA.png
