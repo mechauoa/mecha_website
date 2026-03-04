@@ -342,6 +342,8 @@ sections:
           styles:
             self:
               borderRadius: x-large
+              margin:
+                - mt-2
         actions:
           - type: Link
             label: See Website
