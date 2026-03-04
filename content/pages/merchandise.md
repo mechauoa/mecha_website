@@ -24,7 +24,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Get started
+            label: Buy Now
             altText: ''
             url: 'https://forms.gle/teukRAhKPc16Ep9A7'
             showIcon: false
