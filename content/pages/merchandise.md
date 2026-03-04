@@ -35,6 +35,10 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+        text: |
+          MECHA meets MERCH! Buy our custom 2026 MECHA T-shirt now!
+
+          Semester 1 orders close 2nd April.
     actions: []
     elementId: ''
     variant: big-list
