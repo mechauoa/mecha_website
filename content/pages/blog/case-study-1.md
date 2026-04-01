@@ -43,7 +43,6 @@ styles:
     borderRadius: none
     flexDirection: col
 type: PostLayout
-author: content/data/isabella.json
 ---
 Write a short event recap here!!
 
